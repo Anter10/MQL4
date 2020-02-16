@@ -92,10 +92,12 @@ int Macd::smart(){
    
    int bidcount = 0;
    int askcount = 0;
+   
    macdm1sc  == 1 ? askcount = askcount + Macd::m1qz  : bidcount  = bidcount + Macd::m1qz;
    macdm5sc  == 1 ? askcount = askcount + Macd::m5qz  : bidcount  = bidcount + Macd::m5qz;
    macdm15sc == 1 ? askcount = askcount + Macd::m15qz : bidcount  = bidcount + Macd::m15qz;
    macdm30sc == 1 ? askcount = askcount + Macd::m30qz : bidcount  = bidcount + Macd::m30qz;
+   
    macdmh1sc == 1 ? askcount = askcount + Macd::h1qz  : bidcount  = bidcount + Macd::h1qz;
    macdmh4sc == 1 ? askcount = askcount + Macd::h4qz  : bidcount  = bidcount + Macd::h4qz;
    Print("智能做单情况 = ", "askcount = ", askcount, "bidcount = ", bidcount);
@@ -106,6 +108,6 @@ int Macd::smart(){
        Print("当前建议做空");
        return 0;
    }
-   
+   // 不做单
    return -1;
 }
