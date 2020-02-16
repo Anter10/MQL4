@@ -8,9 +8,9 @@
 
 class MoveAverage{
       // 开始上升
-      boolean isUP(int period, string symbol, int shiftNumber, double breakValue);
+      static boolean isUP(int period, string symbol, int shiftNumber, double breakValue);
       // 开始下降
-      boolean isDown(int period, string symbol, int shiftNumber, double breakValue);
+      static boolean isDown(int period, string symbol, int shiftNumber, double breakValue);
 };
 
 /**
