@@ -59,16 +59,12 @@ class BollingerBands
     static boolean dirIsDown();
     // 布林带处于顶部盘整
     static boolean isTopSlice();
-        // 布林带处于底部盘整
+    // 布林带处于底部盘整
     static boolean isBottomSlice();
-
     // 布林带是否开始处于向上反转 多单
     static boolean bottomDirStartUp();
-
     // 布林带开始向下反转 空单
     static boolean topDirStartDown();
-
-
     // 交易决策
     static int  smart();
 
@@ -220,6 +216,37 @@ boolean BollingerBands::bottomDirStartUp(int period, string symbol, int shiftNum
     return is_bottom_slice && is_main_upper && more_than_low && is_security;
 }
 
+/**
+  判断顶部调整完成 方向即将开始向下。
+  判断依据
+  1: 是顶部盘整阶段
+  2: 当前K线的前一根K线必须处于下轨和中轨之间(注意: 当前的值需要加上容错值)
+  3: 当前K线的前一根K线的上轨值开始下降
+*/
+
+boolean BollingerBands::topDirStartDown(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift){
+    // 判断1
+    boolean is_top_slice = BollingerBands::isTopSlice(period,  symbol,  shiftNumber,  breakValue,  startShift);
+    // 判断2
+    double  close_value =  iClose(symbol, period, startShift + 1);
+    double  main_value  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_MAIN, startShift + 1);
+    double  low_value  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_LOW, startShift + 1);
+    
+    boolean is_between_main_and_low = false;
+    if(close_value > low_value && close_value < main_value){
+        is_between_main_and_low = true;
+    }
+    // 判断3
+    double  upper_value_1  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_UPPER, startShift + 1);
+    double  upper_value_2  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_UPPER, startShift + 2sss);
+    boolean is_down = false;
+    if(upper_value_1 < upper_value_2){
+        is_down = true;
+    }
+    
+    return is_top_slice && is_between_main_and_low && is_down;
+
+}
 
 
 // 返回 1:buy 0: sell -1 观望
