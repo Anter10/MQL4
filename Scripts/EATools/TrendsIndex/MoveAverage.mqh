@@ -25,8 +25,8 @@ class MoveAverage{
 
 bool MoveAverage::isUP(int period, string symbol, int shiftNumber, double breakValue, int startShift, float offset){
     // 判断1
-    double pre_close_price = iClose(symbol,period, startShift +PRICE_CLOSE 1);
-    double ima_price = iMA(symbol, period, 13,8,MODE_SMMA, ,startShift + 1);
+    double pre_close_price = iClose(symbol,period, startShift + 1);
+    double ima_price = iMA(symbol, period, 13,8,MODE_SMMA, PRICE_CLOSE,startShift + 1);
     bool pre_close_price_more_than_pre_ima = false;
     
     Print(startShift,"pre_close_price = ",pre_close_price, "ima_price ",ima_price );

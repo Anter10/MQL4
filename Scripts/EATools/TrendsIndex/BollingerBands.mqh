@@ -244,6 +244,7 @@ bool BollingerBands::topDirStartDown(int period, string symbol, int shiftNumber,
         is_down = true;
     }
     
+    Print(startShift,"topDirStartDown =  ",  is_top_slice , " " , is_between_main_and_low  , " " , is_down);
     return is_top_slice && is_between_main_and_low && is_down;
 
 }
