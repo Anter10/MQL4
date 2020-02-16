@@ -54,29 +54,29 @@ class BollingerBands
     static double lowAndHighRange;
     
     // 布林带的方向是向上
-    static boolean dirIsUp(int period, string symbol, int shiftNumber, double breakValue, int startShift);
+    static bool dirIsUp(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带的方向是向下
-    static boolean dirIsDown(int period, string symbol, int shiftNumber, double breakValue, int startShift);
+    static bool dirIsDown(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带处于顶部盘整
-    static boolean isTopSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift);
+    static bool isTopSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带处于底部盘整
-    static boolean isBottomSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift);
+    static bool isBottomSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带是否开始处于向上反转 多单
-    static boolean bottomDirStartUp(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift);
+    static bool bottomDirStartUp(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift);
     // 布林带开始向下反转 空单
-    static boolean topDirStartDown(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift);
+    static bool topDirStartDown(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift);
     // 交易决策
     static int  smart();
 };
 
 
 int   BollingerBands::shiftNumber = 5;
-float BollingerBands::breakValue = 20;
-float BollingerBands::lowAndHighRange = 80;
+double BollingerBands::breakValue = 20;
+double BollingerBands::lowAndHighRange = 80;
 
  // 判断依据 K线的最终价格 在平均线 和 上轨道之间 得添加
- boolean BollingerBands::dirIsUp(int period, string symbol, int shiftNumber, double breakValue, int startShift){
-    boolean is_up = true;
+ bool BollingerBands::dirIsUp(int period, string symbol, int shiftNumber, double breakValue, int startShift){
+    bool is_up = true;
 
     for(int shift = startShift; shift < shiftNumber; shift ++){
         double  upper_value = iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_UPPER, shift);
@@ -93,8 +93,8 @@ float BollingerBands::lowAndHighRange = 80;
  }
 
  // 判断依据 K值的关闭价格是否在平均线之下 
- boolean BollingerBands::dirIsDown(int period, string symbol, int shiftNumber, double breakValue, int startShift){
-    boolean is_down = true;
+ bool BollingerBands::dirIsDown(int period, string symbol, int shiftNumber, double breakValue, int startShift){
+    bool is_down = true;
 
     for(int shift = startShift; shift < shiftNumber; shift ++){
         double  main_value  = iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_MAIN, shift);
@@ -116,8 +116,8 @@ float BollingerBands::lowAndHighRange = 80;
     2: 当前K线的前一根的开盘价格小于前1根K线的关闭价格
 */
 
-boolean BollingerBands::isTopSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift){
-      boolean is_slice = false;
+bool BollingerBands::isTopSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift){
+      bool is_slice = false;
 
       for(int shift = startShift; shift < shiftNumber; shift ++){
          double  close_value =  iClose(symbol, period, shift);
@@ -147,8 +147,8 @@ boolean BollingerBands::isTopSlice(int period, string symbol, int shiftNumber, d
    3: 当前K线的前一根K线的收盘价格大于前一根K线的最低价格
 */
 
-boolean BollingerBands::isBottomSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift){
-      boolean is_slice = false;
+bool BollingerBands::isBottomSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift){
+      bool is_slice = false;
 
       for(int shift = startShift; shift < shiftNumber; shift ++){
          double  close_value =  iClose(symbol, period, shift);
@@ -160,6 +160,7 @@ boolean BollingerBands::isBottomSlice(int period, string symbol, int shiftNumber
              break;
          }
  
+         double  pre_open_value = iOpen(symbol, period, shift + 1);
          // 判断2
          if(close_value < pre_open_value){
              is_slice = true;
@@ -186,28 +187,28 @@ boolean BollingerBands::isBottomSlice(int period, string symbol, int shiftNumber
    3: 当前K线的前1根K线的收盘价格在所有样本K线中大于最低的样本K线值
    4: 并且这个阶段的涨跌幅值不能超过给定的危险值
 */
-boolean BollingerBands::bottomDirStartUp(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift){
-    // 判断1
-    boolean is_bottom_slice = BollingerBands::isBottomSlice(period, symbol, shiftNumber,  breakValue);
+bool BollingerBands::bottomDirStartUp(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift){
+    // 
+    bool is_bottom_slice = BollingerBands::isBottomSlice( period,  symbol,  shiftNumber,  breakValue,  startShift);
     
     // 判断2
     double  close_value =  iClose(symbol, period, startShift);
     double  main_value  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_MAIN, startShift);
-    boolean is_main_upper = false;
+    bool is_main_upper = false;
     if(close_value > main_value){
         is_main_upper = true;
     }
 
     // 判断3
     double lowest = iLowest(symbol, period,MODE_LOW, shiftNumber, startShift);
-    boolean more_than_low = false;
+    bool more_than_low = false;
     if(close_value > lowest){
         more_than_low = true;
     }
 
     // 判断4
     double highest = iHighest(symbol, period,MODE_LOW, shiftNumber, startShift);
-    boolean is_security = false;
+    bool is_security = false;
     if(highest - lowest < lowAndHighRange){
        is_security = true;
     }
@@ -223,22 +224,22 @@ boolean BollingerBands::bottomDirStartUp(int period, string symbol, int shiftNum
   3: 当前K线的前一根K线的上轨值开始下降
 */
 
-boolean BollingerBands::topDirStartDown(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift){
+bool BollingerBands::topDirStartDown(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift){
     // 判断1
-    boolean is_top_slice = BollingerBands::isTopSlice(period,  symbol,  shiftNumber,  breakValue,  startShift);
+    bool is_top_slice = BollingerBands::isTopSlice( period,  symbol,  shiftNumber,  breakValue,  startShift);
     // 判断2
     double  close_value =  iClose(symbol, period, startShift + 1);
     double  main_value  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_MAIN, startShift + 1);
     double  low_value  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_LOW, startShift + 1);
     
-    boolean is_between_main_and_low = false;
+    bool is_between_main_and_low = false;
     if(close_value > low_value && close_value < main_value){
         is_between_main_and_low = true;
     }
     // 判断3
     double  upper_value_1  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_UPPER, startShift + 1);
-    double  upper_value_2  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_UPPER, startShift + 2sss);
-    boolean is_down = false;
+    double  upper_value_2  =  iBands(symbol, period, 20, 2, 0, PRICE_LOW, MODE_UPPER, startShift + 2);
+    bool is_down = false;
     if(upper_value_1 < upper_value_2){
         is_down = true;
     }

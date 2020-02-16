@@ -29,8 +29,9 @@
 */
 
 class AverageDirectionalMovementIndex{
-      static boolean isAsk(int period, string symbol, int startShift, int shiftNumber);
-      static boolean isBid(int period, string symbol, int startShift, int shiftNumber)
+      public:
+      static bool isAsk(int period, string symbol, int startShift, int shiftNumber);
+      static bool isBid(int period, string symbol, int startShift, int shiftNumber);
 };
 
 
@@ -42,7 +43,7 @@ class AverageDirectionalMovementIndex{
    3: 暂时不用[ADX 和 +DI 处于 -DI之上]
 */
 
-boolean AverageDirectionalMovementIndex::isAsk(int period, string symbol, int startShift, int shiftNumber){
+bool AverageDirectionalMovementIndex::isAsk(int period, string symbol, int startShift, int shiftNumber){
    double plusDi = iADX(NULL,0,14,PRICE_HIGH,MODE_PLUSDI,startShift + 1);
    double minusDi = iADX(NULL,0,14,PRICE_HIGH,MODE_MINUSDI,startShift + 1);
    double mainAdx = iADX(NULL,0,14,PRICE_HIGH,MODE_MAIN,startShift + 1);
@@ -52,19 +53,19 @@ boolean AverageDirectionalMovementIndex::isAsk(int period, string symbol, int st
    double cur_mainAdx = iADX(NULL,0,14,PRICE_HIGH,MODE_MAIN,startShift);
 
    // 判断1
-   boolean is_adx_minus_minusdi_smaller_2 = mainAdx - minusDi >= 2 ? true : false;
+   bool is_adx_minus_minusdi_smaller_2 = mainAdx - minusDi >= 2 ? true : false;
 
    double plusDi1 = iADX(NULL,0,14,PRICE_HIGH,MODE_PLUSDI,startShift + 1);
    double plusDi2 = iADX(NULL,0,14,PRICE_HIGH,MODE_PLUSDI,startShift + 2);
 
    // 判断2
-   boolean pre_plus_di = false;
+   bool pre_plus_di = false;
    if(plusDi1 > plusDi2){
       pre_plus_di = true;
    }
 
    // 判断3
-   boolean adx_plus_mt_mdi = true;
+   bool adx_plus_mt_mdi = true;
 //    if(cur_plusDi > cur_minusDi && cur_mainAdx > cur_minusDi){
 //       adx_plus_mt_mdi = true;
 //    }
@@ -80,7 +81,7 @@ boolean AverageDirectionalMovementIndex::isAsk(int period, string symbol, int st
    2: 暂定为当前K线的前一根K线的-DI处于上升阶段【当前K线的前部分K线的+DI处于下降阶段（80 %）】
    3: 暂时不用[ADX 和 -DI 处于 +DI之上]
 */
-boolean AverageDirectionalMovementIndex::isBid(int period, string symbol, int startShift, int shiftNumber){
+bool AverageDirectionalMovementIndex::isBid(int period, string symbol, int startShift, int shiftNumber){
    double plusDi1 = iADX(NULL,0,14,PRICE_HIGH,MODE_PLUSDI,startShift + 1);
    double plusDi2 = iADX(NULL,0,14,PRICE_HIGH,MODE_PLUSDI,startShift + 2);
 
@@ -93,19 +94,19 @@ boolean AverageDirectionalMovementIndex::isBid(int period, string symbol, int st
    double cur_mainAdx = iADX(NULL,0,14,PRICE_HIGH,MODE_MAIN,startShift);
 
    // 判断1
-   boolean is_plus_di_down = false;
+   bool is_plus_di_down = false;
    if(plusDi1 < plusDi2){
        is_plus_di_down = true;
    }
 
    // 判断2
-   boolean minus_di_up = false;
+   bool minus_di_up = false;
    if(minusDi > minusDi2){
       minus_di_up = true;
    }
 
    // 判断3
-   boolean m_m_th_pdi = true;
+   bool m_m_th_pdi = true;
 //    if(cur_plusDi < cur_minusDi && cur_plusDi < cur_mainAdx){
 //       m_m_th_pdi = true;
 //    }
