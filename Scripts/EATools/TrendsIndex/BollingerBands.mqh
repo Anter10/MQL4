@@ -54,24 +54,23 @@ class BollingerBands
     static double lowAndHighRange;
     
     // 布林带的方向是向上
-    static boolean dirIsUp();
+    static boolean dirIsUp(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带的方向是向下
-    static boolean dirIsDown();
+    static boolean dirIsDown(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带处于顶部盘整
-    static boolean isTopSlice();
+    static boolean isTopSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带处于底部盘整
-    static boolean isBottomSlice();
+    static boolean isBottomSlice(int period, string symbol, int shiftNumber, double breakValue, int startShift);
     // 布林带是否开始处于向上反转 多单
-    static boolean bottomDirStartUp();
+    static boolean bottomDirStartUp(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift);
     // 布林带开始向下反转 空单
-    static boolean topDirStartDown();
+    static boolean topDirStartDown(int period, string symbol, int shiftNumber, double breakValue, double lowAndHighRange, int startShift);
     // 交易决策
     static int  smart();
-
 };
 
 
-int BollingerBands::shiftNumber = 5;
+int   BollingerBands::shiftNumber = 5;
 float BollingerBands::breakValue = 20;
 float BollingerBands::lowAndHighRange = 80;
 
