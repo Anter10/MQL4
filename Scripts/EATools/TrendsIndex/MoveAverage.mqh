@@ -29,7 +29,7 @@ bool MoveAverage::isUP(int period, string symbol, int shiftNumber, double breakV
     double ima_price = iMA(symbol, period, 13,8,MODE_SMMA, PRICE_CLOSE,startShift + 1);
     bool pre_close_price_more_than_pre_ima = false;
     
-    Print(startShift,"pre_close_price = ",pre_close_price, "ima_price ",ima_price );
+    //Print(startShift,"pre_close_price = ",pre_close_price, "ima_price ",ima_price );
     if(pre_close_price > ima_price){
         pre_close_price_more_than_pre_ima = true;
     }
@@ -66,7 +66,7 @@ bool MoveAverage::isUP(int period, string symbol, int shiftNumber, double breakV
     // 判断4
     bool is_c_m_o = (c_m_t_o_count / shiftNumber) * 100 > offset ? true : false;
 
-    Print(startShift," is up ",pre_close_price_more_than_pre_ima, " " ,cur_open_more_than_cur_ima , " " , is_ima_bottom , " " , is_c_m_o );
+    //Print(startShift," is up ",pre_close_price_more_than_pre_ima, " " ,cur_open_more_than_cur_ima , " " , is_ima_bottom , " " , is_c_m_o );
     return pre_close_price_more_than_pre_ima && cur_open_more_than_cur_ima && is_ima_bottom && is_c_m_o;
 
 }
@@ -93,7 +93,7 @@ bool MoveAverage::isDown(int period, string symbol, int shiftNumber, double brea
     for(int i = 1; i <= shiftNumber; i ++){
         double t_ima_price = iMA(symbol, period, 13,8,MODE_SMMA, PRICE_CLOSE,startShift + i);
         double t_close_price = iClose(symbol, period, startShift + i);
-        Print("k 线的信息 = ",startShift + i, " ", t_close_price, "    ", t_ima_price );
+       // Print("k 线的信息 = ",startShift + i, " ", t_close_price, "    ", t_ima_price );
         if(t_close_price > t_ima_price){
             ma_up_count = ma_up_count + 1;
         }
@@ -111,7 +111,7 @@ bool MoveAverage::isDown(int period, string symbol, int shiftNumber, double brea
     }
     
     
-    Print(t_offset," is down msg = ", pre_close_price_smaler_pre_open_price ,"  ", is_up_ma ," " , os_break_ma);
+   // Print(t_offset," is down msg = ", pre_close_price_smaler_pre_open_price ,"  ", is_up_ma ," " , os_break_ma);
     
     return pre_close_price_smaler_pre_open_price && is_up_ma && os_break_ma;
     
