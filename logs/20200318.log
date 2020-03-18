@@ -19,3 +19,172 @@
 0	12:10:32.440	Data Folder: C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4
 0	12:10:32.643	Sources recompilation started
 0	12:10:43.383	Sources recompilation finished (28 compiled in 10741 msec)
+0	12:10:45.608	'68052795': login on SmartEliteTrading-Live through CN Access 1 (ping: 50.56 ms)
+0	12:10:46.210	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 1 (ping: 50.56 ms)
+0	12:10:46.338	'68052795': previous successful authorization performed from 124.64.73.69
+0	12:10:48.153	'68052795': ping to current access point CN Access 1 is 51.93 ms
+1	12:21:03.168	'33043105': connect failed [帐户无效]
+0	12:21:44.027	'33043105': login on SmartEliteTrading-Demo through CN Access 3 (ping: n/a)
+0	12:21:57.958	'33043105': ping to current access point CN Access 3 is 53.90 ms
+0	12:30:44.103	'33043105': login on SmartEliteTrading-Demo through CN Access 3 (ping: 53.90 ms)
+0	12:30:45.326	Automated trading enabled
+0	12:31:13.923	'33043105': login datacenter on SmartEliteTrading-Demo through CN Access 3 (ping: 53.90 ms)
+0	12:31:14.051	'33043105': previous successful authorization performed from 124.64.73.69
+1	12:54:34.966	'33043105': connect failed [没有连接]
+0	12:54:40.418	'33043105': login on SmartEliteTrading-Demo through CN Access 1 (ping: 55.43 ms)
+0	12:54:46.795	'33043105': login datacenter on SmartEliteTrading-Demo through CN Access 1 (ping: 55.43 ms)
+0	12:54:46.934	'33043105': previous successful authorization performed from 124.64.73.69
+2	12:56:29.584	Expert IBandEA XAUUSD,H1: loaded successfully
+2	12:57:59.155	Expert IBandEA XAUUSD,H1: removed
+2	12:58:04.265	Expert IBandEA XAUUSD,H1: loaded successfully
+2	12:58:13.501	Expert IBandEA XAUUSD,H1: removed
+2	12:58:14.646	Expert IBandEA XAUUSD,H1: loaded successfully
+2	12:59:04.199	Expert IBandEA XAUUSD,H1: removed
+2	12:59:06.777	Expert IBandEA XAUUSD,H1: loaded successfully
+1	13:11:05.346	'33043105': connect failed [没有连接]
+0	13:11:10.700	'33043105': login on SmartEliteTrading-Demo through CN Access 4 (ping: 70.72 ms)
+0	13:11:11.791	'33043105': login datacenter on SmartEliteTrading-Demo through CN Access 4 (ping: 70.72 ms)
+0	13:11:11.959	'33043105': previous successful authorization performed from 124.64.73.69
+2	13:15:29.818	Expert IBandEA XAUUSD,H1: removed
+2	13:39:48.737	Expert IBandEA XAUUSD,H1: loaded successfully
+2	13:42:22.849	Expert IBandEA XAUUSD,H1: removed
+2	13:42:29.340	Expert IBandEA XAUUSD,H1: loaded successfully
+2	13:42:35.952	Expert IBandEA XAUUSD,H1: removed
+2	13:42:37.586	Expert IBandEA XAUUSD,H1: loaded successfully
+2	13:46:16.112	Expert IBandEA XAUUSD,H1: removed
+2	13:46:17.832	Expert IBandEA XAUUSD,H1: loaded successfully
+2	13:49:41.331	Expert IBandEA XAUUSD,H1: removed
+2	13:49:43.348	Expert IBandEA XAUUSD,H1: loaded successfully
+2	13:51:45.450	Expert IBandEA XAUUSD,H1: removed
+2	13:51:51.834	Expert IBandEA XAUUSD,H1: loaded successfully
+1	14:07:12.202	'33043105': ping failed
+0	14:07:12.903	'33043105': login on SmartEliteTrading-Demo through CN Access 4 (ping: 70.72 ms)
+0	14:08:00.990	'33043105': login datacenter on SmartEliteTrading-Demo through CN Access 4 (ping: 70.72 ms)
+0	14:08:01.171	'33043105': previous successful authorization performed from 117.136.19.161
+0	14:08:01.441	'33043105': auto connecting to a better access point CN Access 3 (ping is 61.53 ms)
+0	14:08:01.892	'33043105': login on SmartEliteTrading-Demo through CN Access 3 (ping: 61.53 ms)
+0	14:08:02.645	'33043105': login datacenter on SmartEliteTrading-Demo through CN Access 3 (ping: 61.53 ms)
+0	14:08:02.818	'33043105': previous successful authorization performed from 124.64.73.69
+2	14:21:41.296	Expert IBandEA XAUUSD,H1: removed
+2	14:26:16.147	Expert IBandEA XAUUSD,H1: loaded successfully
+2	14:27:11.605	Expert IBandEA XAUUSD,M5: removed
+2	14:27:13.286	Expert IBandEA XAUUSD,H1: loaded successfully
+0	14:46:16.825	'33043105': login on SmartEliteTrading-Demo through CN Access 3 (ping: 61.53 ms)
+0	14:46:18.735	'33043105': login datacenter on SmartEliteTrading-Demo through CN Access 3 (ping: 61.53 ms)
+0	14:46:18.858	'33043105': previous successful authorization performed from 124.64.73.69
+2	15:21:21.033	Expert IBandEA XAUUSD,M5: removed
+2	15:21:22.135	Expert IBandEA XAUUSD,H1: loaded successfully
+2	15:21:35.826	Expert IBandEA XAUUSD,H1: removed
+2	15:37:29.799	Expert IBandEA XAUUSD,H1: loaded successfully
+2	15:38:01.575	Expert IBandEA XAUUSD,H1: removed
+2	15:39:59.237	Expert IBandEA XAUUSD,H1: loaded successfully
+2	15:40:07.208	Expert IBandEA XAUUSD,H1: removed
+2	15:42:34.650	Expert IBandEA XAUUSD,H1: loaded successfully
+2	15:43:03.829	Expert IBandEA XAUUSD,H1: removed
+2	15:49:03.030	Expert IBandEA XAUUSD,H1: loaded successfully
+2	15:49:09.977	Expert IBandEA XAUUSD,H1: removed
+2	15:56:09.418	Expert IBandEA XAUUSD,H1: loaded successfully
+2	15:58:40.666	Expert IBandEA XAUUSD,M5: removed
+2	16:02:58.944	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:05:47.785	Expert IBandEA XAUUSD,M5: removed
+2	16:05:49.391	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:16:45.758	Expert IBandEA XAUUSD,M5: removed
+2	16:16:48.383	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:18:24.633	Expert IBandEA XAUUSD,M5: removed
+2	16:18:26.045	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:21:18.966	Expert IBandEA XAUUSD,M5: removed
+2	16:21:20.335	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:21:28.541	Expert IBandEA XAUUSD,H1: removed
+2	16:21:34.102	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:30:05.406	Expert IBandEA XAUUSD,M5: removed
+2	16:30:05.415	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:30:05.843	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:30:11.028	Expert IBandEA XAUUSD,H1: removed
+2	16:35:02.572	Expert IBandEA XAUUSD,M5: removed
+2	16:35:02.580	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:35:02.903	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:35:13.919	Expert IBandEA XAUUSD,H1: removed
+2	16:35:20.344	Expert IBandEA XAUUSD,M5: removed
+2	16:35:20.355	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:36:45.672	Expert IBandEA XAUUSD,M5: removed
+2	16:36:45.681	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:36:46.057	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:38:11.095	Expert IBandEA XAUUSD,H1: removed
+2	16:38:11.996	Expert IBandEA XAUUSD,M5: removed
+2	16:38:12.005	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:38:12.400	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:38:16.675	Expert IBandEA XAUUSD,H1: removed
+2	16:38:22.248	Expert IBandEA XAUUSD,M5: removed
+2	16:38:22.258	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:38:51.688	Expert IBandEA XAUUSD,M5: removed
+2	16:38:51.697	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:38:52.100	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:38:55.869	Expert IBandEA XAUUSD,H1: removed
+2	16:39:00.321	Expert IBandEA XAUUSD,M5: removed
+2	16:39:00.331	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:40:14.335	Expert IBandEA XAUUSD,M5: removed
+2	16:40:14.347	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:40:14.650	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:40:36.285	Expert IBandEA XAUUSD,M5: removed
+2	16:40:36.296	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:43:25.044	Expert IBandEA XAUUSD,H1: removed
+2	16:43:25.928	Expert IBandEA XAUUSD,M5: removed
+2	16:43:25.937	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:43:26.289	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:43:34.363	Expert IBandEA XAUUSD,M5: removed
+2	16:43:34.373	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:46:22.324	Expert IBandEA XAUUSD,H1: removed
+2	16:46:26.840	Expert IBandEA XAUUSD,M5: removed
+2	16:46:26.851	Expert IBandEA XAUUSD,M5: loaded successfully
+2	16:46:26.913	Expert IBandEA XAUUSD,H1: loaded successfully
+2	16:46:42.750	Expert IBandEA XAUUSD,M5: removed
+2	16:46:42.759	Expert IBandEA XAUUSD,M5: loaded successfully
+0	16:48:56.595	Automated trading disabled
+0	16:53:42.966	Automated trading enabled
+2	17:05:31.876	Expert IBandEA XAUUSD,H1: removed
+2	17:08:03.200	Expert IBandEA XAUUSD,M5: removed
+2	17:08:03.210	Expert IBandEA XAUUSD,M5: loaded successfully
+2	17:08:03.531	Expert IBandEA XAUUSD,H1: loaded successfully
+2	17:08:17.045	Expert IBandEA XAUUSD,M5: removed
+2	17:08:17.055	Expert IBandEA XAUUSD,M5: loaded successfully
+0	17:08:40.744	Automated trading disabled
+0	17:08:43.009	Automated trading enabled
+2	17:09:20.013	Expert IBandEA XAUUSD,H1: removed
+2	17:10:07.717	Expert IBandEA XAUUSD,M5: removed
+2	17:10:07.727	Expert IBandEA XAUUSD,M5: loaded successfully
+2	17:10:08.155	Expert IBandEA XAUUSD,H1: loaded successfully
+2	17:11:13.402	Expert IBandEA XAUUSD,H1: removed
+0	17:11:23.802	Automated trading disabled
+2	17:34:00.116	Expert IBandEA XAUUSD,M5: removed
+2	17:34:00.127	Expert IBandEA XAUUSD,M5: loaded successfully
+2	17:34:00.571	Expert IBandEA XAUUSD,H1: loaded successfully
+2	17:34:08.656	Expert IBandEA XAUUSD,M5: removed
+2	17:34:08.666	Expert IBandEA XAUUSD,M5: loaded successfully
+2	17:37:06.942	Expert IBandEA XAUUSD,H1: removed
+2	17:37:07.765	Expert IBandEA XAUUSD,M5: removed
+2	17:37:07.772	Expert IBandEA XAUUSD,M5: loaded successfully
+2	17:37:08.145	Expert IBandEA XAUUSD,H1: loaded successfully
+2	17:37:15.660	Expert IBandEA XAUUSD,M5: removed
+2	17:37:15.668	Expert IBandEA XAUUSD,M5: loaded successfully
+2	17:37:54.076	Expert IBandEA XAUUSD,H1: removed
+2	18:11:40.623	Expert IBandEA XAUUSD,M5: removed
+2	18:11:40.632	Expert IBandEA XAUUSD,M5: loaded successfully
+2	18:11:40.965	Expert IBandEA XAUUSD,H1: loaded successfully
+2	21:42:25.890	Expert IBandEA XAUUSD,H1: removed
+2	21:46:57.383	Expert IBandEA XAUUSD,M5: removed
+2	21:46:57.392	Expert IBandEA XAUUSD,M5: loaded successfully
+2	21:46:57.699	Expert IBandEA XAUUSD,H1: loaded successfully
+0	21:51:45.301	Automated trading enabled
+0	21:51:51.219	Automated trading disabled
+2	22:09:45.474	Expert IBandEA XAUUSD,H1: removed
+2	22:10:05.951	Expert IBandEA XAUUSD,M5: removed
+2	22:10:05.960	Expert IBandEA XAUUSD,M5: loaded successfully
+2	22:10:06.261	Expert IBandEA XAUUSD,H1: loaded successfully
+2	22:12:03.804	Expert IBandEA XAUUSD,H1: removed
+2	22:12:04.667	Expert IBandEA XAUUSD,M5: removed
+2	22:12:04.676	Expert IBandEA XAUUSD,M5: loaded successfully
+2	22:12:05.107	Expert IBandEA XAUUSD,H1: loaded successfully
+0	22:13:22.555	Automated trading enabled
+2	22:13:28.404	Expert IBandEA XAUUSD,H1: removed
+2	22:13:29.156	Expert IBandEA XAUUSD,M5: removed
+2	22:13:29.164	Expert IBandEA XAUUSD,M5: loaded successfully
