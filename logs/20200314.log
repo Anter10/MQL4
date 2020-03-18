@@ -1,0 +1,10 @@
+1	09:47:26.982	'68052795': datacenter connecting failed [6]
+1	09:47:27.101	'68052795': connect failed [没有连接]
+0	09:49:16.286	'68052795': login on SmartEliteTrading-Live through JP Access 1 (ping: n/a)
+0	09:49:18.695	'68052795': login datacenter on SmartEliteTrading-Live through JP Access 1 (ping: n/a)
+0	09:49:19.042	'68052795': previous successful authorization performed from 124.64.73.69
+0	09:49:20.312	'68052795': auto connecting to a better access point CN Access 1 (ping is 50.56 ms)
+0	09:49:20.682	'68052795': login on SmartEliteTrading-Live through CN Access 1 (ping: 50.56 ms)
+0	09:49:21.224	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 1 (ping: 50.56 ms)
+0	09:49:21.348	'68052795': previous successful authorization performed from 124.64.73.69
+0	13:43:01.773	Smart Elite Trading MT4 build 1220 stopped

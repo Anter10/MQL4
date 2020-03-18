@@ -1,0 +1,21 @@
+0	12:10:23.331	Smart Elite Trading MT4 build 1220 started (Smart Elite Trading Limited)
+0	12:10:23.333	Microsoft Windows 7 x86, IE 11, 12 x Intel Pentium 4  2.40GHz, Memory: 7569 / 16384 Mb, Disk: 29 / 233 Gb, GMT+8
+0	12:10:23.333	Data Folder: C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4
+1	12:10:28.350	'68052795': connect failed [没有连接]
+0	12:10:29.364	Smart Elite Trading MT4 build 1220 stopped
+0	12:10:27.216	LiveUpdate: updater - started for portable 'C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4'
+0	12:10:27.217	LiveUpdate: updater - try to close terminal
+0	12:10:30.500	LiveUpdate: updater - files update started
+0	12:10:30.523	LiveUpdate: copied from 'C:\users\ycg\Application Data\MetaQuotes\WebInstall\mt4clw\metaeditor.exe' to 'C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4\metaeditor.exe'
+0	12:10:30.539	LiveUpdate: copied from 'C:\users\ycg\Application Data\MetaQuotes\WebInstall\mt4clw\terminal.exe' to 'C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4\terminal.exe'
+0	12:10:30.539	LiveUpdate: updater - files update finished
+0	12:10:30.539	LiveUpdate: updater - clean obsolete data
+0	12:10:30.539	LiveUpdate: updater - start terminal
+0	12:10:30.581	LiveUpdate: updater - finished for portable 'C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4'
+0	12:10:32.322	LiveUpdate: update C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4\MQL4 folder started
+0	12:10:32.398	LiveUpdate: update C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4\MQL4 folder finished
+0	12:10:32.438	Smart Elite Trading MT4 build 1260 started (Smart Elite Trading Limited)
+0	12:10:32.440	Microsoft Windows 7 x86, IE 11, 12 x Intel Pentium 4  2.40GHz, Memory: 7513 / 16384 Mb, Disk: 29 / 233 Gb, GMT+8
+0	12:10:32.440	Data Folder: C:\users\ycg\桌面\heisekeji\mt\SET MetaTrader 4
+0	12:10:32.643	Sources recompilation started
+0	12:10:43.383	Sources recompilation finished (28 compiled in 10741 msec)

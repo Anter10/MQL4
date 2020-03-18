@@ -1,0 +1,43 @@
+0	01:34:35.515	'68052795': login on SmartEliteTrading-Live through CN Access 6 (ping: 80.48 ms)
+0	01:34:47.338	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 6 (ping: 80.48 ms)
+0	01:34:56.208	'68052795': previous successful authorization performed from 183.225.65.24
+0	01:35:05.384	'68052795': ping to current access point CN Access 6 is 84.18 ms
+0	02:27:34.648	'68052795': login on SmartEliteTrading-Live through CN Access 6 (ping: 84.18 ms)
+0	02:27:43.100	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 6 (ping: 84.18 ms)
+0	02:27:44.587	'68052795': previous successful authorization performed from 183.225.65.24
+1	02:28:04.723	MQL5.community: authorization failed
+1	03:37:04.705	'68052795': ping failed
+1	03:37:04.737	'68052795': connect failed [没有连接]
+1	05:26:04.179	MQL5.community: authorization failed
+1	07:27:09.197	MQL5.community: authorization failed
+1	07:32:09.292	MQL5.community: authorization failed
+1	09:23:20.882	MQL5.community: authorization failed
+0	09:23:24.926	'68052795': login on SmartEliteTrading-Live through JP Access 1 (ping: n/a)
+0	09:23:31.096	'68052795': login datacenter on SmartEliteTrading-Live through JP Access 1 (ping: n/a)
+0	09:23:31.470	'68052795': previous successful authorization performed from 183.225.65.24
+0	09:23:34.802	'68052795': auto connecting to a better access point CN Access 6 (ping is 74.88 ms)
+0	09:23:35.202	'68052795': login on SmartEliteTrading-Live through CN Access 6 (ping: 74.88 ms)
+1	09:23:37.348	MQL5.community: authorization failed
+0	09:23:39.235	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 6 (ping: 74.88 ms)
+0	09:23:39.435	'68052795': previous successful authorization performed from 183.225.65.24
+1	09:23:39.467	MQL5.community: authorization failed
+1	09:28:25.348	MQL5.community: authorization failed
+1	14:19:20.992	'68052795': ping failed
+0	14:19:21.562	'68052795': login on SmartEliteTrading-Live through CN Access 6 (ping: 74.88 ms)
+0	14:19:24.304	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 6 (ping: 74.88 ms)
+0	14:19:24.492	'68052795': previous successful authorization performed from 183.225.65.24
+0	14:19:33.380	'68052795': ping to current access point CN Access 6 is 70.35 ms
+1	20:40:09.588	'68052795': ping failed
+0	20:40:13.057	'68052795': login datacenter on SmartEliteTrading-Live
+0	20:40:25.338	'68052795': login on SmartEliteTrading-Live through CN Access 3 (ping: 106.52 ms)
+0	20:40:26.674	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 3 (ping: 106.52 ms)
+0	20:40:27.048	'68052795': previous successful authorization performed from 183.225.65.24
+1	20:40:33.297	MQL5.community: authorization failed
+0	20:40:46.106	'68052795': auto connecting to a better access point CN Access 6 (ping is 70.73 ms)
+0	20:40:51.828	'68052795': login on SmartEliteTrading-Live through CN Access 6 (ping: 70.73 ms)
+0	20:40:52.891	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 6 (ping: 70.73 ms)
+0	20:40:53.184	'68052795': previous successful authorization performed from 183.225.65.30
+0	21:32:02.552	'68052795': login on SmartEliteTrading-Live through CN Access 6 (ping: 70.73 ms)
+0	21:32:03.666	'68052795': login datacenter on SmartEliteTrading-Live through CN Access 6 (ping: 70.73 ms)
+0	21:32:04.180	'68052795': previous successful authorization performed from 183.225.65.30
+1	21:32:13.226	MQL5.community: authorization failed
