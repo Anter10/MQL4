@@ -18,34 +18,26 @@
 // 基础下单手数
 input double base_order_lots = 0.01; // 基础下单手数
 
-input double main_middle_line_send_buy_order_min_offset = 0.5;// 多单情况 当前K线的开盘价格在中轨之上 触发此次下单的最小偏移量
-input double main_middle_line_send_buy_order_max_offset = 0.8;// 多单情况 当前K线的开盘价格在中轨之上 触发此次下单的最小偏移量
+input double main_middle_line_send_buy_order_min_offset  = 0.4; // 当前K线的开盘价格在中轨之上 且当前价格大于开盘价格 触发下多单的最小偏移量
+input double main_middle_line_send_buy_order_max_offset  = 0.6; // 当前K线的开盘价格在中轨之上 且当前价格大于开盘价格 触发下多单的最大偏移量
 
-input double main_middle_line_send_sell_order_min_offset = 0.5; //空单情况 当前K线的开盘价格在中轨之下 触发此次下单的最小偏移量
-input double main_middle_line_send_sell_order_max_offset = 0.8;// 空单情况 当前K线的开盘价格在中轨之上 触发此次下单的最小偏移量
+input double main_middle_line_send_sell_order_min_offset = 0.4; // 当前K线的开盘价格在中轨之下 且当前价格低于开盘价格 触发下空单的最小偏移量
+input double main_middle_line_send_sell_order_max_offset = 0.6; // 当前K线的开盘价格在中轨之下 且当前价格低于开盘价格 触发下空单的最大偏移量
 
+input double break_main_mode_line_of_buy_offset          = 0.4; // 突破中轨直接下多单的偏移量
+input double break_main_mode_line_of_sell_min_offset     = 0.4; // 突破中轨直接下空单的偏移量
 
+input double buy_order_of_reverse_close_order_offset     = 0.6; // 多单行情反转止损的偏移量
+input double sell_order_of_reverse_close_order_offset    = 0.6; // 空单行情反转止损的偏移量
 
-// 当5分钟K线击破中轨(基本指标线)多少下做多单的偏移量 单位默认1美金。
-input double break_main_mode_line_of_buy_offset = 1;// 突破中轨多单下单的偏移量  单位美金
-// 当5分钟K线击破中轨(基本指标线)多少下做空单的最小偏移量 单位默认1美金。
-input double break_main_mode_line_of_sell_min_offset = 1;// 突破中轨空单下单的偏移量  单位美金
-
-
-// 当五分钟K线 在多单的情况下 行情反转多少止损的偏移量 单位为默认1.5美金
-input double buy_order_of_reverse_close_order_offset = 1.5; // 多单行情反转止损的偏移量 单位美金
-// 当五分钟K线 在空单的情况下 行情反转多少止损的偏移量 单位为默认1.5美金
-input double sell_order_of_reverse_close_order_offset = 1.5; // 空单行情反转止损的偏移量 单位美金
-
-// 当前订单的止盈类型类型 1: 不贪心 2: 贪心
-input int order_profit_type = 1;// 1: 不贪心 2: 贪心
+input int order_profit_type = 1; // 1: 不贪心 2: 贪心 （只涉及到止盈的方式）
 
 // 贪心算法的当前K线的值和下单价的差值
 
-// 贪心多单的止盈
-input double greedy_profit_close_buy_order_offset = 5; //  贪心多单 当前K线和订单买入价相比的止盈偏移量 单位美金
-// 贪心空单的止盈
-input double greedy_profit_close_sell_order_offset = 5; // 贪心空单 当前K线和订单买入价相比的止盈偏移量 单位美金
+// 贪心多单的止盈偏移量
+input double greedy_profit_close_buy_order_offset = 1; //  贪心多单 当前K线和订单买入价相比的止盈偏移量 单位美金
+// 贪心空单的止盈偏移量
+input double greedy_profit_close_sell_order_offset = 1; // 贪心空单 当前K线和订单买入价相比的止盈偏移量 单位美金
 
 
 // 不贪心的止盈方式 当前K线的值低于前一根K线的收盘价多少后开始止盈
@@ -59,9 +51,9 @@ input double no_greedy_profit_buy_order_when_cur_price_and_highest_offset = 1; /
 input double no_greedy_profit_sell_order_when_cur_price_and_highest_offset = 1; // 不贪心做空订单 在同一根K线的最高点和当前价格的止盈偏移量
 
 
-input string cur_symbol = "XAUUSD"; // 当前交易类别名称
-
-input ENUM_TIMEFRAMES cur_time_frame = PERIOD_M5; // 所用K线的图表周期
+input string cur_symbol = "XAUUSD";                     // 当前交易类别名称
+input ENUM_TIMEFRAMES cur_time_frame = PERIOD_M5;       // 所用K线的图表周期
+input int check_shift_lowest_or_hightest_bar_shift = 3; // 检查最低点和最高点到的K线数量
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -90,7 +82,7 @@ void OnDeinit(const int reason)
 // 判断当前的K线是否向上突破了布林带的中轨
 bool UpDirBrokeMainBands(){
    double main_middle_1 = iBands(cur_symbol, cur_time_frame, 20, 2, 0, PRICE_CLOSE, MODE_MAIN,1);
-   double cur_price_offset = Ask - main_middle_1;
+   double cur_price_offset = Bid - main_middle_1;
    double pre_k_open_price = iOpen( cur_symbol, cur_time_frame, 1);
    double cur_k_open_price = iOpen( cur_symbol, cur_time_frame, 0);
 
@@ -99,15 +91,14 @@ bool UpDirBrokeMainBands(){
 
    // 下面这段逻辑是个触发了突破信号
    // 判断这根K线的开开盘价格是否在中轨之下 或者 前一根K线是否在中轨之下
-   bool open_is_lower_main_middle =  cur_k_open_price<= main_middle_1;
+   bool open_is_lower_main_middle =  cur_k_open_price <= main_middle_1;
    // 判断这根K线的前一根开盘价格是否在中轨之下
    bool pre_k_open_is_lower_main_middle = pre_k_open_price <= main_middle_1;
    bool is_up_broke_sign = open_is_lower_main_middle || pre_k_open_is_lower_main_middle;
-
    if(is_up_broke_sign == false){
       // 如果突破信号没有产生 那么判断当前的K线是否在中轨之上并且和前一根K线的中轨值有一定的距离
       bool open_price_than_main_middle = cur_k_open_price >= main_middle_1;
-      bool cur_price_than_main_middle_line_offset = Ask - cur_k_open_price;
+      bool cur_price_than_main_middle_line_offset = Ask - main_middle_1;
       // 这里需要做一个区间 如果没有在这个区间内是不能下单的
       if(cur_price_than_main_middle_line_offset > main_middle_line_send_buy_order_min_offset && cur_price_than_main_middle_line_offset < main_middle_line_send_buy_order_max_offset){
          is_up_broke_sign = true;
@@ -115,10 +106,6 @@ bool UpDirBrokeMainBands(){
    }
 
    bool up_broke_main_middle = is_up_broke && is_up_broke_sign;
-
-   if(up_broke_main_middle){
-      Print("触发了做多单价格");
-   }
 
 
    return up_broke_main_middle;
@@ -128,28 +115,32 @@ bool UpDirBrokeMainBands(){
 // 判断当前的K线是否向下突破了布林带的中轨
 bool DownDirBrokeMainBands(){
    double main_middle_1 = iBands(cur_symbol, cur_time_frame, 20, 2, 0, PRICE_CLOSE, MODE_MAIN,1);
-   double cur_price_offset = main_middle_1 - Bid;
+   double cur_price_offset = main_middle_1 - Ask;
    // 判断当前是否突破中轨也就是在中轨的下边 
    bool is_down_broke = cur_price_offset >= break_main_mode_line_of_sell_min_offset;
 
    // 判断这根K线的开盘价格是否在中轨的上方
    double pre_k_open_price = iOpen( cur_symbol, cur_time_frame, 1);
    double cur_k_open_price = iOpen( cur_symbol, cur_time_frame, 0);
+
    bool cur_k_open_price_is_middle_upper =  cur_k_open_price >= main_middle_1;
    bool pre_k_open_price_is_midele_upper =  pre_k_open_price >= main_middle_1;
+   
    bool is_down_broke_sign = cur_k_open_price_is_middle_upper || pre_k_open_price_is_midele_upper;
 
    // 如果没有触发做空信号 需要判断当前是否是在
    if(is_down_broke_sign == false){
       // 判断当前的K线的开盘价格是否在中轨的下方 并且在给定的区间内 
-      double open_price_and_cur_bid_price_offset = cur_k_open_price - Bid;
-
+      double open_price_and_cur_bid_price_offset = main_middle_1 - Bid;
       // 这里还需要判断一下
       if(open_price_and_cur_bid_price_offset > main_middle_line_send_sell_order_min_offset && open_price_and_cur_bid_price_offset <= main_middle_line_send_sell_order_max_offset){
          is_down_broke_sign = true;  
+         // Print(open_price_and_cur_bid_price_offset," 向下穿透这里进来了 ",is_down_broke_sign);
       }
    }
 
+
+   // Print( "cur_k_open_price_is_middle_upper = ", cur_k_open_price_is_middle_upper , "pre_k_open_price_is_midele_upper = ",pre_k_open_price_is_midele_upper);
 
    bool down_broke_main_middle = is_down_broke && is_down_broke_sign;
 
@@ -174,21 +165,26 @@ double SellOrderStopLosePriceValue(){
 bool CheckBuyOrderOfProfitCanStop(double order_buy_price){
     if(order_profit_type == 1){
       // 不贪心的算法 贪心的止盈方式 当前K线的值低于前一根K线的收盘价多少后开始止盈
-      double pre_k_close_value = iClose( cur_symbol,cur_time_frame, 1);
+      double pre_k_close_value = iClose( cur_symbol,cur_time_frame, 0);
       double cur_price_offset = pre_k_close_value - Ask;
       bool buy_can_stop_profit = cur_price_offset >= no_greedy_profit_close_buy_order_lower_pre_k_line_offset;
       
       if(buy_can_stop_profit == false){
+        int max_high_value_shift = iHighest( cur_symbol, cur_time_frame, MODE_HIGH, check_shift_lowest_or_hightest_bar_shift, 0);
         // 如果没有产生止盈条件1的话 需要继续往下判断是否在同一根K线上产生止盈
-        double cur_highest_price = iHigh( cur_symbol, cur_time_frame, 0);
+        double cur_highest_price = iHigh( cur_symbol, cur_time_frame, max_high_value_shift);
         double cur_hightest_and_cur_price_offset = cur_highest_price - Ask;
         buy_can_stop_profit = cur_hightest_and_cur_price_offset >= no_greedy_profit_buy_order_when_cur_price_and_highest_offset;
       }
       return buy_can_stop_profit;
     }else if(order_profit_type == 2){
       // 贪心的算法
-      double cur_value_offset = Ask - order_buy_price;
-      bool buy_can_stop_profit = cur_value_offset >= greedy_profit_close_buy_order_offset;
+      // 判断当前K线的值和中轨是否接近止盈偏移量的值
+      double bands_value = iBands(cur_symbol, cur_time_frame, 20, 2, 0, PRICE_CLOSE, MODE_MAIN,1);
+      double cur_value_offset = Ask - bands_value;
+
+      bool buy_can_stop_profit = cur_value_offset < greedy_profit_close_buy_order_offset;
+      return buy_can_stop_profit;
     }
     return false;
 }
@@ -197,12 +193,13 @@ bool CheckBuyOrderOfProfitCanStop(double order_buy_price){
 bool CheckSellOrderOfProfitCanStop(double order_sell_price){
     if(order_profit_type == 1){
       // 不贪心的算法 贪心的止盈方式 当前K线的值低于前一根K线的收盘价多少后开始止盈
-      double pre_k_close_value = iClose( cur_symbol,cur_time_frame, 1);
+      double pre_k_close_value = iClose( cur_symbol,cur_time_frame, 0);
       double cur_price_offset = Bid - pre_k_close_value;
       bool sell_can_stop_profit = cur_price_offset >= no_greedy_profit_close_sell_order_lower_pre_k_line_offset;
       // 如果没有产生止盈 则判断当前的K线的最高价格和当前的价格之间的差值是否触发止盈
       if(sell_can_stop_profit == false){
-         double cur_lowest_price = iLow( cur_symbol, cur_time_frame, 0);
+         int low_est_shift_value = iLowest( cur_symbol, cur_time_frame, MODE_LOW, check_shift_lowest_or_hightest_bar_shift, 0);
+         double cur_lowest_price = iLow( cur_symbol, cur_time_frame, low_est_shift_value);
          double cur_hightest_and_cur_price_offset = Bid - cur_lowest_price;
          if(cur_hightest_and_cur_price_offset >= no_greedy_profit_sell_order_when_cur_price_and_highest_offset){
             sell_can_stop_profit = true;
@@ -211,8 +208,10 @@ bool CheckSellOrderOfProfitCanStop(double order_sell_price){
       return sell_can_stop_profit;
     }else if(order_profit_type == 2){
       // 贪心的算法
-      double cur_value_offset = order_sell_price - Bid;
-      bool buy_can_stop_profit = cur_value_offset >= greedy_profit_close_sell_order_offset;
+      double bands_value = iBands(cur_symbol, cur_time_frame, 20, 2, 0, PRICE_CLOSE, MODE_MAIN,1);
+      double cur_value_offset = bands_value - Bid;
+      bool sell_can_stop_profit = cur_value_offset >= greedy_profit_close_sell_order_offset;
+      return sell_can_stop_profit;
     }
     return false;
 }
@@ -226,11 +225,11 @@ void smartEa(){
      
       bool is_up = UpDirBrokeMainBands();
       if(is_up){
-         Print("从下往上冲破中轨开始做多单");
+        
          // 开始做多单 做单步骤 1: 获得多单的止损价格 2: 直接下单
          double stop_loss_price = BuyOrderStopLosePriceValue();
          int res = OrderSend(cur_symbol,OP_BUY,base_order_lots,Ask, 3, stop_loss_price, 0 ,"", MAGICMA, 0, Blue);
-         Print("当前的错误 = ",GetLastError());
+       Print("往上冲破中轨开始做多单",GetLastError());
       }else{
          bool is_down = DownDirBrokeMainBands();
          if(is_down){
@@ -298,7 +297,6 @@ void clearAllOrders(){
     }
 }
 
-
 //+------------------------------------------------------------------+
 //| Expert tick function                                             |
 //+------------------------------------------------------------------+
@@ -306,6 +304,9 @@ void OnTick()
   {
 //---
    smartEa();
+   // int low_shift = iLowest( cur_symbol, cur_time_frame, MODE_HIGH, 4,0 );
+   // int high_shift = iHighest( cur_symbol, cur_time_frame, MODE_HIGH, 4,0 );
+   // Print("最近三根K线中价值最高的那根K线 = ",high_shift, " 最低的那根线 = ",low_shift);
    
   }
 //+------------------------------------------------------------------+
