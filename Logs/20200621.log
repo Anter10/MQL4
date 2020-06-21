@@ -1,0 +1,5 @@
+0	14:57:37.251	Expert Grail XAUUSD,H1: loaded successfully
+0	14:57:39.274	Grail XAUUSD,H1 inputs: small_lot=0.1; time_frame=1; symbol=HK50; 
+0	14:57:39.298	Grail XAUUSD,H1: initialized
+0	14:58:29.866	Grail XAUUSD,H1: uninit reason 4
+0	14:58:29.913	Expert Grail XAUUSD,H1: removed

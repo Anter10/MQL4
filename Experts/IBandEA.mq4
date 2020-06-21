@@ -324,6 +324,7 @@ bool UpDirBrokeMainBands(){
 
 // 判断当前的K线是否向下突破了布林带的中轨
 bool DownDirBrokeMainBands(){
+  iBands( str symbol, int timeframe=PERIOD_M1|PERIOD_M5|PERIOD_M15|PERIOD_M30|PERIOD_H1|PERIOD_H4|PERIOD_D1|PERIOD_W1|PERIOD_MN1|0, int period, int deviation, int bands_shift, int applied_price=PRICE_OPEN|PRICE_HIGH|PRICE_LOW|PRICE_CLOSE|PRICE_MEDIAN|PRICE_TYPICAL|PRICE_WEIGHTED, int mode=MODE_UPPER|MODE_LOWER, int shift )
    double main_middle_1 = iBands(cur_symbol, cur_time_frame, 20, 2, 0, PRICE_CLOSE, MODE_MAIN,0);
    double cur_price_offset = main_middle_1 - Bid;
    double open_price = iOpen( cur_symbol, cur_time_frame, 0 );
@@ -402,13 +403,13 @@ void smartEa(){
         
          // 开始做多单 做单步骤 1: 获得多单的止损价格 2: 直接下单
          double stop_loss_price = BuyOrderStopLosePriceValue();
-         int res = OrderSend(cur_symbol,OP_BUY,beishu * base_order_lots,Ask, 3, stop_loss_price, 0 ,"", MAGICMA, 0, Blue);
+         int res = OrderSend(cur_symbol,OP_BUY,beishu * base_order_lots,Ask, 3, 0, 0 ,"", MAGICMA, 0, Blue);
       }else{
          bool is_down = DownDirBrokeMainBands();
          if(is_down){
             // 开始做空单 
             double stop_loss_price = SellOrderStopLosePriceValue();
-            int res = OrderSend(Symbol(),OP_SELL,beishu * base_order_lots,Bid,3,stop_loss_price, 0,"", MAGICMA,0, Red);
+            int res = OrderSend(Symbol(),OP_SELL,beishu * base_order_lots,Bid,3,0, 0,"", MAGICMA,0, Red);
          }
       }
    }else{
@@ -428,7 +429,7 @@ void smartEa(){
           // Print("     ",order_ticket, "  当前空单盈利 = ",  order_profit);
           bool buy_can_stop_profit = CheckBuyOrderOfProfitCanStop(OrderOpenPrice());
 
-          if(buy_can_stop_profit && order_profit > stop_order_profit * beishu){
+          if(buy_can_stop_profit && order_profit > 0){
              // 判断做多是否可以止盈
              OrderClose(order_ticket, OrderLots(), Bid, 3, Blue);
           }else{
@@ -443,7 +444,7 @@ void smartEa(){
           // Print("     ",order_ticket, "  当前空单盈利 = ",  order_profit);
           bool sell_can_stop_profit = CheckSellOrderOfProfitCanStop(OrderOpenPrice());
 
-          if(sell_can_stop_profit && order_profit > stop_order_profit * beishu){
+          if(sell_can_stop_profit && order_profit > 0){
               // 如果盈利的话 则判断当前是否可以止盈
               OrderClose(order_ticket, OrderLots(), Ask, 3, Red);
           }else{

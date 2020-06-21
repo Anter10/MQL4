@@ -1,0 +1,47 @@
+0	18:06:02.112	Script Test XAUUSD,H1: loaded successfully
+0	18:06:02.122	Test XAUUSD,H1: initialized
+0	18:06:02.140	Test XAUUSD,H1: Alert: Hello World
+0	18:06:02.140	Test XAUUSD,H1: uninit reason 0
+0	18:06:02.197	Script Test XAUUSD,H1: removed
+0	18:06:31.313	Script Test USDCNH,H1: loaded successfully
+0	18:06:31.325	Test USDCNH,H1: initialized
+0	18:06:31.337	Test USDCNH,H1: Alert: Hello World
+0	18:06:31.337	Test USDCNH,H1: uninit reason 0
+0	18:06:31.339	Script Test USDCNH,H1: removed
+0	18:06:47.226	Script Test USDCNH,H1: loaded successfully
+0	18:06:47.238	Test USDCNH,H1: initialized
+0	18:06:47.239	Test USDCNH,H1: Alert: Hello World
+0	18:06:47.239	Test USDCNH,H1: uninit reason 0
+0	18:06:47.241	Script Test USDCNH,H1: removed
+0	18:06:50.344	Script Test USDCNH,H1: loaded successfully
+0	18:06:50.355	Test USDCNH,H1: initialized
+0	18:06:50.372	Test USDCNH,H1: Alert: Hello World
+0	18:06:50.372	Test USDCNH,H1: uninit reason 0
+0	18:06:50.374	Script Test USDCNH,H1: removed
+0	18:06:53.342	Script PeriodConverter USDCNH,H1: loaded successfully
+0	18:06:55.121	PeriodConverter USDCNH,H1 inputs: InpPeriodMultiplier=3; 
+0	18:06:55.134	PeriodConverter USDCNH,H1: initialized
+0	18:06:55.135	PeriodConverter USDCNH,H1: 685 record(s) written
+0	18:06:57.647	PeriodConverter USDCNH,H1: uninit reason 1
+0	18:06:57.649	Script PeriodConverter USDCNH,H1: removed
+0	18:06:57.658	Script Test USDCNH,H1: loaded successfully
+0	18:06:57.670	Test USDCNH,H1: initialized
+0	18:06:57.673	Test USDCNH,H1: Alert: Hello World
+0	18:06:57.673	Test USDCNH,H1: uninit reason 0
+0	18:06:57.675	Script Test USDCNH,H1: removed
+0	18:07:02.684	Script Examples\DLL\DLLSampleTester USDCNH,H1: loaded successfully
+1	18:07:04.067	Cannot call 'DLLSample.dll::GetIntValue', DLL is not allowed
+1	18:07:04.067	DLLSampleTester USDCNH,H1: unresolved import function call
+3	18:07:04.067	DLLSampleTester USDCNH,H1: not initialized
+0	18:07:04.067	DLLSampleTester USDCNH,H1: uninit reason 8
+0	18:07:04.069	Script DLLSampleTester USDCNH,H1: removed
+0	18:09:33.600	Script Test USDCNH,H1: loaded successfully
+0	18:09:33.612	Test USDCNH,H1: initialized
+0	18:09:33.613	Test USDCNH,H1: Alert: Hello World
+0	18:09:33.613	Test USDCNH,H1: uninit reason 0
+0	18:09:33.615	Script Test USDCNH,H1: removed
+0	18:21:41.684	Script Test XAUUSD,H1: loaded successfully
+0	18:21:41.693	Test XAUUSD,H1: initialized
+0	18:21:41.707	Test XAUUSD,H1: Alert: 1.2333
+0	18:21:41.707	Test XAUUSD,H1: uninit reason 0
+0	18:21:41.773	Script Test XAUUSD,H1: removed
