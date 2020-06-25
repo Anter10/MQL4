@@ -7,6 +7,17 @@
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 #property strict
+
+#include "../MQL4/Trader/Fllow.mqh";
+
+
+#include "../MQL4/Trader/FllowSAR.mqh";
+
+
+//FllowSAR * trades[
+
+FllowSAR f1 = FllowSAR();
+
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
@@ -14,7 +25,11 @@ int OnInit()
   {
 //--- create timer
    EventSetTimer(60);
-   
+   f1.init("GOLD", PERIOD_M5);
+
+//f1.init(0.001,"US30",PERIOD_M5);
+//f2.init("HK50",PERIOD_M1);
+
 //---
    return(INIT_SUCCEEDED);
   }
@@ -25,7 +40,8 @@ void OnDeinit(const int reason)
   {
 //--- destroy timer
    EventKillTimer();
-   
+
+
   }
 //+------------------------------------------------------------------+
 //| Expert tick function                                             |
@@ -33,7 +49,15 @@ void OnDeinit(const int reason)
 void OnTick()
   {
 //---
+//f1.check();
    
+   f1.check_order();
+//|                                                                  |
+//+------------------------------------------------------------------+
+//---
+//---
+
+
   }
 //+------------------------------------------------------------------+
 //| Timer function                                                   |
@@ -41,7 +65,7 @@ void OnTick()
 void OnTimer()
   {
 //---
-   
+
   }
 //+------------------------------------------------------------------+
 //| Tester function                                                  |
@@ -64,6 +88,6 @@ void OnChartEvent(const int id,
                   const string &sparam)
   {
 //---
-   
+
   }
 //+------------------------------------------------------------------+

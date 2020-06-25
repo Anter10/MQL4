@@ -1,0 +1,3260 @@
+0	09:33:36.805	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:33:39.608	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:33:39.608	FollowTrader USDCHF,H1: initialized
+0	09:33:40.077	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:40.077	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:40.567	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:40.567	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:46.606	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:46.606	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:46.992	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:46.992	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:51.970	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:51.970	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:58.321	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:58.321	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:58.523	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:58.523	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:58.746	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:58.747	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:33:58.963	FollowTrader USDCHF,H1: Hellotrue
+0	09:33:58.963	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:02.043	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:02.043	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:03.336	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:03.336	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:03.990	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:03.990	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:04.808	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:04.808	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:18.588	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:18.588	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:18.914	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:18.914	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:19.427	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:19.427	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:22.826	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:22.826	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:23.032	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:23.032	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:25.453	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:25.453	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:39.649	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:39.649	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:39.683	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:39.683	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:50.326	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:50.326	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:50.435	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:50.435	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:50.507	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:50.507	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:34:59.351	FollowTrader USDCHF,H1: Hellotrue
+0	09:34:59.351	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:01.948	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:01.948	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:02.088	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:02.088	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:02.493	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:02.493	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:06.050	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:06.050	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:11.347	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:11.347	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:11.431	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:11.431	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:11.507	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:11.507	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:12.620	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:12.620	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:12.724	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:12.724	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:13.212	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:13.212	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:13.320	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:13.320	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:15.023	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:15.023	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:15.226	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:15.226	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:20.354	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:20.354	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:20.450	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:20.450	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:20.542	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:20.542	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:21.606	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:21.606	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:37.910	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:37.910	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:38.011	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:38.011	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:38.118	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:38.118	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:39.494	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:39.494	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:40.305	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:40.305	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:40.616	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:40.616	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:48.320	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:48.320	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:48.435	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:48.435	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:48.546	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:48.546	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:49.334	FollowTrader USDCHF,H1: Hellotrue
+0	09:35:49.334	FollowTrader USDCHF,H1: Point. = 1e-05
+0	09:35:49.648	FollowTrader USDCHF,H1: uninit reason 4
+0	09:35:49.708	Expert FollowTrader USDCHF,H1: removed
+0	09:35:50.568	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:35:53.925	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:35:53.925	FollowTrader USDCHF,H1: initialized
+0	09:35:54.376	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:02.975	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:05.915	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:06.024	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:09.627	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:09.731	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:22.068	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:22.662	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:27.162	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:29.596	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:32.201	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:42.951	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.143	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.240	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.349	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.447	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.714	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.936	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:43.947	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:44.255	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:44.341	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:44.447	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:44.887	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:49.758	FollowTrader USDCHF,H1: Hellotrue
+0	09:36:55.299	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:05.217	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:05.304	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:05.406	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:05.506	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:06.500	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:09.432	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:20.391	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:30.830	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:31.551	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:37.558	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:39.555	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:54.384	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:54.493	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:54.975	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:55.070	FollowTrader USDCHF,H1: Hellotrue
+0	09:37:58.391	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:01.252	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:01.321	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:01.510	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:01.837	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:01.935	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:06.267	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:10.566	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:10.744	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:13.979	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:14.243	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:16.151	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:16.558	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:16.684	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:17.588	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:17.875	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:21.900	FollowTrader USDCHF,H1: uninit reason 4
+0	09:38:22.006	Expert FollowTrader USDCHF,H1: removed
+0	09:38:22.832	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:38:33.573	Expert FollowTrader USDCHF,H1: removed
+0	09:38:35.164	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:38:48.049	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:38:48.049	FollowTrader USDCHF,H1: initialized
+0	09:38:48.478	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:55.391	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:56.449	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:56.887	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:57.978	FollowTrader USDCHF,H1: Hellotrue
+0	09:38:59.511	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:02.033	FollowTrader USDCHF,H1: uninit reason 4
+0	09:39:02.124	Expert FollowTrader USDCHF,H1: removed
+0	09:39:04.533	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:39:06.490	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:39:06.490	FollowTrader USDCHF,H1: initialized
+0	09:39:08.219	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:42.627	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:42.722	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:42.813	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:53.825	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:54.153	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:54.333	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:54.434	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:54.864	FollowTrader USDCHF,H1: Hellotrue
+0	09:39:55.045	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:02.889	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:02.970	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:03.092	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:03.404	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:03.498	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:04.893	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:04.915	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:05.003	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:05.424	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:05.892	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:06.124	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:06.223	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:06.330	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:06.428	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:06.842	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:08.218	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:13.174	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:14.981	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:15.265	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:15.359	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:15.561	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:15.674	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:15.858	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:16.061	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:16.451	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:18.718	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:18.992	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:19.084	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:19.593	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:19.889	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:21.328	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:22.826	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:22.926	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:27.544	FollowTrader USDCHF,H1: Hellotrue
+0	09:40:29.138	FollowTrader USDCHF,H1: uninit reason 4
+0	09:40:29.287	Expert FollowTrader USDCHF,H1: removed
+0	09:42:03.896	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:42:05.630	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:42:05.630	FollowTrader USDCHF,H1: initialized
+0	09:42:05.630	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:06.282	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:06.374	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:06.472	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:06.588	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:07.378	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:08.643	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:10.283	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:10.297	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:10.495	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:10.593	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:10.779	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:11.190	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:28.818	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:30.674	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:31.376	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:32.609	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:32.687	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:32.750	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:36.303	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:36.409	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:47.142	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:47.250	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:47.344	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:48.704	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:49.054	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:51.065	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:52.478	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:53.781	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:56.773	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:57.443	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:58.562	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:58.792	FollowTrader USDCHF,H1: Hellotrue
+0	09:42:59.193	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:00.110	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:09.343	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:09.425	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:09.515	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:09.720	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:09.936	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:14.485	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:14.586	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:15.688	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:18.181	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:18.877	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:19.175	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:19.508	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:19.813	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:20.397	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:20.998	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:25.316	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:25.829	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:25.927	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:32.120	FollowTrader USDCHF,H1: uninit reason 4
+0	09:43:32.220	Expert FollowTrader USDCHF,H1: removed
+0	09:43:33.511	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:43:35.166	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:43:35.166	FollowTrader USDCHF,H1: initialized
+0	09:43:40.460	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:40.578	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:40.678	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:41.083	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:41.158	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:41.471	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:42.297	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:43.468	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:51.832	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:52.225	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:52.410	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:52.535	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:53.632	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:53.736	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:53.832	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:58.869	FollowTrader USDCHF,H1: Hellotrue
+0	09:43:58.971	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:01.883	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:01.954	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:02.159	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:02.266	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:02.374	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:02.973	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:03.081	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:05.280	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:05.876	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:06.408	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:06.596	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:06.694	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:06.882	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:07.004	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:07.433	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:08.147	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:08.323	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:08.408	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:08.517	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:08.613	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:10.190	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:11.923	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:13.238	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:13.630	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:15.314	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:16.339	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:16.444	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:16.924	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:17.353	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:17.454	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:17.552	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:17.630	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:17.721	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:17.848	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:18.034	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:25.753	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:26.479	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:26.580	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:26.674	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:26.964	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:27.082	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:27.161	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:27.285	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:27.972	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:28.066	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:28.197	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:28.879	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:29.111	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:32.821	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:32.882	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:33.896	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:34.777	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:35.627	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:35.698	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:37.407	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:37.897	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:38.020	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:38.110	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:38.300	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:39.113	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:40.535	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:47.777	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:48.187	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:48.242	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:48.515	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:48.554	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:48.970	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:49.067	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:49.160	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:49.755	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:50.891	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:51.066	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:51.144	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:51.473	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:53.006	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:53.071	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:54.082	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:54.208	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:54.587	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:58.414	FollowTrader USDCHF,H1: Hellotrue
+0	09:44:58.707	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:02.831	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:06.619	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:10.456	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:10.644	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:12.784	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:18.365	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:18.580	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:18.694	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:20.098	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:20.376	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:20.473	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:21.002	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:21.082	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:21.495	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:22.075	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:22.876	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:24.484	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:24.598	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:24.910	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:32.723	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:32.817	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:32.938	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:36.328	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:37.218	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:38.534	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:38.737	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:38.828	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:39.062	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:39.143	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:39.256	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:39.335	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:41.900	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:42.864	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:42.955	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:45.786	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:51.410	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:56.186	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:56.220	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:58.735	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:58.945	FollowTrader USDCHF,H1: Hellotrue
+0	09:45:59.555	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:02.928	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:03.039	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:04.768	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:05.141	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:05.549	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:05.734	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:05.829	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:09.641	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:09.766	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:10.740	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:10.850	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:11.565	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:11.661	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:13.069	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:13.192	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:13.302	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:14.582	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:15.067	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:16.909	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:16.990	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:17.909	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:18.078	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:18.282	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:18.377	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:20.195	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:24.437	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:32.774	FollowTrader USDCHF,H1: uninit reason 4
+0	09:46:32.790	Expert FollowTrader USDCHF,H1: removed
+0	09:46:34.246	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:46:35.952	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:46:35.952	FollowTrader USDCHF,H1: initialized
+0	09:46:43.888	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:43.994	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:44.097	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:45.437	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:45.521	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:47.312	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:47.408	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:47.518	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:47.612	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:48.317	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:54.054	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:54.259	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:56.284	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:56.660	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:58.165	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:58.272	FollowTrader USDCHF,H1: Hellotrue
+0	09:46:58.365	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:03.862	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:04.347	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:05.989	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:06.318	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:07.722	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:09.148	FollowTrader USDCHF,H1: uninit reason 4
+0	09:47:09.163	Expert FollowTrader USDCHF,H1: removed
+0	09:47:10.368	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:47:12.324	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:47:12.324	FollowTrader USDCHF,H1: initialized
+0	09:47:15.973	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:16.259	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:18.101	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:18.463	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:18.571	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:24.397	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:24.483	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:24.574	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:53.442	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:53.552	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:54.963	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:55.082	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:57.010	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:58.184	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:58.980	FollowTrader USDCHF,H1: Hellotrue
+0	09:47:59.809	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:02.187	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:06.209	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:06.323	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:12.742	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:16.461	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:18.309	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:20.294	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:20.383	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:21.476	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:21.593	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:22.949	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:25.381	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:27.435	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:27.511	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:27.606	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:27.891	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:29.026	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:31.434	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:31.728	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:31.928	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:32.649	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:32.835	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:32.936	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:33.039	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:33.974	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:34.631	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:34.743	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:37.663	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:37.966	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:39.052	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:39.241	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:39.540	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:40.223	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:41.366	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:47.700	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:50.381	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:51.287	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:56.022	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:56.416	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:58.336	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:58.436	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:59.179	FollowTrader USDCHF,H1: Hellotrue
+0	09:48:59.252	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:00.807	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:03.772	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:03.835	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:04.048	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:05.104	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:06.783	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:09.282	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:11.800	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:15.605	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:17.753	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:17.825	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:17.922	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:17.993	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:18.100	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:19.228	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:22.182	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:22.318	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:23.674	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:24.062	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:24.232	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:25.433	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:27.055	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:27.948	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:28.042	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:28.265	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:28.759	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:29.666	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:30.808	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:31.424	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:42.333	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:42.451	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:42.512	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:55.793	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:55.829	FollowTrader USDCHF,H1: Hellotrue
+0	09:49:58.150	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:05.481	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:09.110	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:09.264	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:12.298	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:12.315	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:12.485	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:15.700	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:17.049	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:17.830	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:19.204	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:19.329	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:19.443	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:19.535	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:19.734	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:20.174	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:20.207	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:24.548	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:25.545	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:29.593	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:29.752	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:31.267	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:31.375	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:31.478	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:35.226	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:35.282	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:44.580	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:45.010	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:45.315	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:45.690	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:46.126	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:46.429	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:46.928	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:51.668	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:53.251	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:53.428	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:53.535	FollowTrader USDCHF,H1: Hellotrue
+0	09:50:53.813	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:01.271	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:01.472	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:05.113	FollowTrader USDCHF,H1: uninit reason 4
+0	09:51:05.233	Expert FollowTrader USDCHF,H1: removed
+0	09:51:06.386	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:51:08.349	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:51:08.349	FollowTrader USDCHF,H1: initialized
+0	09:51:08.385	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:09.206	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:10.218	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:10.551	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:11.270	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:14.769	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:36.754	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:36.865	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:39.269	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:39.377	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:40.273	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:47.178	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:47.178	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:49.570	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:50.408	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:51.314	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:54.129	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:54.210	FollowTrader USDCHF,H1: Hellotrue
+0	09:51:55.608	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:00.973	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:05.172	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:05.255	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:11.892	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:11.992	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:12.081	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:12.190	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:12.661	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:26.774	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:26.816	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:27.007	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:27.414	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:27.621	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:27.730	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:28.522	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:29.659	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:31.112	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:32.725	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:37.851	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:37.928	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:38.041	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:46.802	FollowTrader USDCHF,H1: uninit reason 4
+0	09:52:46.884	Expert FollowTrader USDCHF,H1: removed
+0	09:52:47.827	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:52:50.516	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:52:50.516	FollowTrader USDCHF,H1: initialized
+0	09:52:57.772	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:58.384	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:59.115	FollowTrader USDCHF,H1: Hellotrue
+0	09:52:59.519	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:01.319	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:01.623	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:02.885	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:04.115	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:04.226	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:04.304	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:06.821	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:06.855	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:06.964	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:07.138	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:07.496	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:11.364	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:16.817	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:17.180	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:17.180	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:17.718	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:17.772	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:19.508	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:21.840	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:24.047	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:24.120	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:24.234	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:24.337	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:25.107	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:25.223	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:25.305	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:27.262	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:27.522	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:27.619	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:28.795	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:29.228	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:29.324	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:29.541	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:29.615	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:30.229	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:31.940	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:32.131	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:32.755	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:32.891	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:36.479	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:39.276	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:39.352	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:39.464	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:46.510	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:53.210	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:56.035	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:56.119	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:56.226	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:59.202	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:59.337	FollowTrader USDCHF,H1: Hellotrue
+0	09:53:59.505	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:00.544	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:00.631	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:05.475	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:05.523	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:06.482	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:06.634	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:06.758	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:07.934	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:10.175	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:11.959	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:12.062	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:17.185	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:17.276	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:17.465	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:19.291	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:19.369	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:19.493	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:19.588	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:24.995	FollowTrader USDCHF,H1: uninit reason 4
+0	09:54:25.066	Expert FollowTrader USDCHF,H1: removed
+0	09:54:25.983	Expert FollowTrader USDCHF,H1: loaded successfully
+0	09:54:27.619	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	09:54:27.619	FollowTrader USDCHF,H1: initialized
+0	09:54:28.103	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:29.325	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:29.826	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:30.024	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:30.748	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:30.918	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:31.720	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:36.694	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:37.555	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:37.859	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:38.818	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:42.114	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:42.179	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:42.578	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:51.090	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:51.435	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:51.848	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:54.206	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:54.302	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:54.399	FollowTrader USDCHF,H1: Hellotrue
+0	09:54:54.488	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:01.040	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:01.774	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:01.848	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:02.034	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:02.131	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:02.645	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:02.816	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:03.442	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:04.021	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:04.948	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:06.174	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:09.652	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:11.755	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:12.685	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:12.771	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:13.056	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:14.992	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:15.084	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:15.149	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:15.666	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:23.504	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:23.600	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:26.322	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:31.950	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:32.039	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:35.945	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:36.026	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:36.145	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:38.022	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:38.242	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:38.961	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:45.059	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:47.545	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:47.566	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:47.762	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:48.075	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:48.467	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:51.096	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:51.208	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:51.519	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:56.146	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:56.324	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:58.425	FollowTrader USDCHF,H1: Hellotrue
+0	09:55:58.514	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:00.543	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:03.108	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:03.158	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:05.165	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:05.336	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:07.367	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:07.444	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:08.127	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:08.168	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:08.260	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:08.966	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:09.684	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:09.849	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:13.273	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:13.797	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:14.177	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:14.332	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:14.587	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:16.310	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:20.134	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:20.196	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:20.726	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:21.148	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:21.245	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:21.651	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:23.339	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:23.541	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:23.632	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:23.856	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:23.963	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:25.245	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:25.369	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:25.855	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:27.060	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:27.892	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:28.460	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:30.759	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:30.791	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:30.893	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:31.087	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:32.696	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:32.776	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:35.473	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:36.391	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:37.718	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:38.012	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:38.527	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:38.806	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:38.903	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:39.330	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:40.452	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:40.939	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:41.322	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:42.824	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:43.024	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:43.125	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:46.738	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:47.234	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:47.731	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:47.736	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:48.384	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:48.574	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:48.726	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:53.902	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:56.911	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:56.998	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:57.893	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:58.102	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:59.038	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:59.087	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:59.395	FollowTrader USDCHF,H1: Hellotrue
+0	09:56:59.707	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:00.906	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:18.496	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:19.024	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:23.667	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:23.722	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:23.889	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:25.518	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:30.477	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:30.515	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:30.709	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:31.000	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:34.327	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:34.343	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:34.546	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:34.611	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:35.723	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:35.806	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:36.357	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:36.543	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:36.639	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:36.734	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:36.823	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:37.236	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:37.324	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:37.455	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:37.736	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:40.460	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:40.560	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:40.954	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:41.357	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:41.481	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:41.560	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:42.031	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:42.150	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:42.746	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:42.870	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:42.989	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:43.261	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:43.355	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:43.479	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:44.794	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:45.078	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:46.792	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:48.891	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:54.510	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:55.409	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:55.507	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:55.737	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:57.047	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:57.137	FollowTrader USDCHF,H1: Hellotrue
+0	09:57:57.953	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:04.485	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:04.556	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:07.987	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:11.467	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:15.413	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:28.665	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:29.348	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:34.868	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:37.889	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:39.597	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:39.989	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:42.025	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:42.702	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:42.967	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:44.205	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:44.455	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:44.497	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:44.800	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:46.221	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:46.609	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:47.143	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:47.213	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:47.811	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:49.528	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:49.623	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:50.639	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:50.842	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:51.154	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:51.251	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:53.453	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:55.956	FollowTrader USDCHF,H1: Hellotrue
+0	09:58:56.062	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:01.397	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:11.562	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:11.977	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:20.848	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:20.889	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:21.088	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:21.196	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:21.272	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:23.422	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:25.293	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:28.329	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:28.513	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:30.727	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:42.266	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:43.150	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:44.994	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:45.281	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:45.466	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:45.715	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:47.570	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:48.225	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:48.722	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:49.627	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:49.726	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:50.120	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:50.513	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:50.586	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:52.081	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:52.130	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:52.732	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:52.903	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:54.233	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:54.531	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:54.771	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:55.142	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:55.221	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:57.466	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:57.558	FollowTrader USDCHF,H1: Hellotrue
+0	09:59:59.263	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:00.373	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:00.510	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:00.881	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:00.988	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:01.556	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:02.574	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:03.291	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:03.715	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:03.890	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:04.876	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:04.987	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:05.223	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:06.459	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:06.591	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:08.223	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:09.087	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:09.852	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:10.045	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:10.137	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:10.915	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:12.771	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:12.806	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:13.837	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:19.234	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:21.307	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:21.361	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:22.082	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:24.999	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:43.970	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:46.254	FollowTrader USDCHF,H1: Hellotrue
+0	10:00:46.370	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:02.253	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:13.984	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:14.184	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:18.131	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:19.608	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:19.817	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:19.904	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:21.810	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:22.030	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:26.548	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:29.672	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:29.769	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:29.879	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:33.039	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:33.174	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:35.636	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:37.272	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:37.389	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:39.179	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:39.278	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:43.697	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:47.071	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:47.633	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:48.408	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:49.324	FollowTrader USDCHF,H1: Hellotrue
+0	10:01:51.033	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:01.109	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:05.095	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:05.929	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:12.209	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:12.301	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:12.376	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:12.498	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:19.955	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:20.595	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:22.195	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:22.311	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:23.631	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:23.705	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:27.240	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:27.313	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:27.416	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:27.522	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:29.470	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:33.439	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:34.567	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:36.463	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:45.784	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:46.689	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:49.984	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:50.723	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:51.820	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:51.934	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:55.441	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:55.814	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:58.661	FollowTrader USDCHF,H1: Hellotrue
+0	10:02:59.572	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:00.161	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:00.858	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:01.483	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:01.771	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:02.752	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:03.669	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:06.689	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:08.378	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:29.455	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:29.739	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:30.236	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:30.361	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:30.446	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:31.179	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:32.362	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:33.686	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:36.542	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:36.611	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:36.692	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:45.632	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:47.448	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:58.987	FollowTrader USDCHF,H1: Hellotrue
+0	10:03:59.480	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:13.932	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:22.210	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:24.379	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:25.374	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:25.482	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:26.194	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:26.769	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:27.317	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:27.689	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:44.774	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:44.882	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:45.006	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:45.073	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:45.193	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:45.600	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:45.789	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:45.977	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:46.288	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:49.268	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:51.396	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:51.801	FollowTrader USDCHF,H1: Hellotrue
+0	10:04:51.881	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:11.239	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:11.264	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:11.378	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:11.470	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:11.993	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:12.118	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:12.263	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:12.300	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:12.364	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:12.893	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:13.082	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:13.515	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:13.895	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:14.009	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:14.063	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:14.231	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:14.762	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:15.366	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:15.413	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:15.732	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:15.899	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:16.033	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:16.111	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:18.219	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:18.614	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:18.800	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:19.229	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:19.418	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:25.145	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:26.027	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:26.144	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:26.744	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:27.268	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:29.333	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:31.326	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:31.861	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:32.492	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:34.491	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:35.659	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:40.715	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:40.992	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:41.071	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:43.469	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:43.537	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:43.603	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:44.128	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:44.748	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:44.876	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:45.045	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:46.001	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:50.986	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:51.031	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:52.454	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:54.551	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:55.960	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:57.066	FollowTrader USDCHF,H1: Hellotrue
+0	10:05:57.347	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:03.084	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:04.016	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:05.584	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:06.113	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:07.780	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:12.800	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:17.237	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:19.339	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:19.416	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:19.550	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:19.743	FollowTrader USDCHF,H1: Hellotrue
+0	10:06:22.606	FollowTrader USDCHF,H1: uninit reason 4
+0	10:06:22.726	Expert FollowTrader USDCHF,H1: removed
+0	10:06:23.899	Expert FollowTrader USDCHF,H1: loaded successfully
+0	10:06:25.886	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	10:06:25.886	FollowTrader USDCHF,H1: initialized
+0	10:06:57.287	FollowTrader USDCHF,H1: uninit reason 4
+0	10:06:57.345	Expert FollowTrader USDCHF,H1: removed
+0	10:13:54.661	Expert FollowTrader USDCHF,H1: loaded successfully
+0	10:13:57.015	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	10:13:57.015	FollowTrader USDCHF,H1: initialized
+0	10:14:14.400	FollowTrader USDCHF,H1: uninit reason 4
+0	10:14:14.461	Expert FollowTrader USDCHF,H1: removed
+0	10:41:58.512	Expert FollowTrader USDCHF,H1: loaded successfully
+0	10:42:05.253	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	10:42:05.253	FollowTrader USDCHF,H1: initialized
+0	10:57:30.858	FollowTrader USDCHF,H1: uninit reason 4
+0	10:57:31.001	Expert FollowTrader USDCHF,H1: removed
+0	11:01:49.485	Expert FollowTrader USDCHF,H1: loaded successfully
+0	11:01:51.100	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:01:51.100	FollowTrader USDCHF,H1: initialized
+0	11:05:45.032	FollowTrader USDCHF,H1: uninit reason 4
+0	11:05:45.074	Expert FollowTrader USDCHF,H1: removed
+0	11:05:47.010	Expert FollowTrader USDCHF,H1: loaded successfully
+0	11:05:48.439	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:05:48.439	FollowTrader USDCHF,H1: Symbol=USDCHF
+0	11:05:48.439	FollowTrader USDCHF,H1: Low day price=0.9468
+0	11:05:48.439	FollowTrader USDCHF,H1: High day price=0.94883
+0	11:05:48.439	FollowTrader USDCHF,H1: The last incoming tick time=1593065135.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Last incoming bid price=0.94863
+0	11:05:48.439	FollowTrader USDCHF,H1: Last incoming ask price=0.94884
+0	11:05:48.439	FollowTrader USDCHF,H1: Point size in the quote currency=1e-05
+0	11:05:48.439	FollowTrader USDCHF,H1: Digits after decimal point=5.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Spread value in points=21.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Stop level in points=50.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Lot size in the base currency=100000.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Tick value in the deposit currency=1.05415177677282
+0	11:05:48.439	FollowTrader USDCHF,H1: Tick size in points=1e-05
+0	11:05:48.439	FollowTrader USDCHF,H1: Swap of the buy order=-0.31
+0	11:05:48.439	FollowTrader USDCHF,H1: Swap of the sell order=-4.93
+0	11:05:48.439	FollowTrader USDCHF,H1: Market starting date (for futures)=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Market expiration date (for futures)=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Trade is allowed for the symbol=1.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Minimum permitted amount of a lot=0.01
+0	11:05:48.439	FollowTrader USDCHF,H1: Step for changing lots=0.01
+0	11:05:48.439	FollowTrader USDCHF,H1: Maximum permitted amount of a lot=50.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Swap calculation method=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Profit calculation mode=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Margin calculation mode=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Initial margin requirements for 1 lot=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Hedged margin calculated for 1 lot=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Free margin required to open 1 lot for buying=2000.0
+0	11:05:48.439	FollowTrader USDCHF,H1: Order freeze level in points=0.0
+0	11:05:48.439	FollowTrader USDCHF,H1: initialized
+0	11:06:03.118	FollowTrader USDCHF,H1: uninit reason 3
+0	11:06:03.142	FollowTrader GOLD,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:06:03.142	FollowTrader GOLD,H1: Symbol=GOLD
+0	11:06:03.142	FollowTrader GOLD,H1: Low day price=1753.04
+0	11:06:03.142	FollowTrader GOLD,H1: High day price=1766.06
+0	11:06:03.142	FollowTrader GOLD,H1: The last incoming tick time=1593065163.0
+0	11:06:03.142	FollowTrader GOLD,H1: Last incoming bid price=1761.46
+0	11:06:03.142	FollowTrader GOLD,H1: Last incoming ask price=1761.82
+0	11:06:03.142	FollowTrader GOLD,H1: Point size in the quote currency=0.01
+0	11:06:03.142	FollowTrader GOLD,H1: Digits after decimal point=2.0
+0	11:06:03.142	FollowTrader GOLD,H1: Spread value in points=36.0
+0	11:06:03.142	FollowTrader GOLD,H1: Stop level in points=100.0
+0	11:06:03.142	FollowTrader GOLD,H1: Lot size in the base currency=100.0
+0	11:06:03.142	FollowTrader GOLD,H1: Tick value in the deposit currency=1.0
+0	11:06:03.142	FollowTrader GOLD,H1: Tick size in points=0.01
+0	11:06:03.142	FollowTrader GOLD,H1: Swap of the buy order=-9.359999999999999
+0	11:06:03.142	FollowTrader GOLD,H1: Swap of the sell order=-4.85
+0	11:06:03.142	FollowTrader GOLD,H1: Market starting date (for futures)=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: Market expiration date (for futures)=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: Trade is allowed for the symbol=1.0
+0	11:06:03.142	FollowTrader GOLD,H1: Minimum permitted amount of a lot=0.01
+0	11:06:03.142	FollowTrader GOLD,H1: Step for changing lots=0.01
+0	11:06:03.142	FollowTrader GOLD,H1: Maximum permitted amount of a lot=50.0
+0	11:06:03.142	FollowTrader GOLD,H1: Swap calculation method=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: Profit calculation mode=1.0
+0	11:06:03.142	FollowTrader GOLD,H1: Margin calculation mode=4.0
+0	11:06:03.142	FollowTrader GOLD,H1: Initial margin requirements for 1 lot=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: Hedged margin calculated for 1 lot=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: Free margin required to open 1 lot for buying=3523.64
+0	11:06:03.142	FollowTrader GOLD,H1: Order freeze level in points=0.0
+0	11:06:03.142	FollowTrader GOLD,H1: initialized
+0	11:06:49.023	FollowTrader GOLD,H1: uninit reason 3
+0	11:06:49.193	FollowTrader EURUSD,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:06:49.193	FollowTrader EURUSD,H1: Symbol=EURUSD
+0	11:06:49.193	FollowTrader EURUSD,H1: Low day price=1.12418
+0	11:06:49.193	FollowTrader EURUSD,H1: High day price=1.12588
+0	11:06:49.193	FollowTrader EURUSD,H1: The last incoming tick time=1593065206.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Last incoming bid price=1.12471
+0	11:06:49.193	FollowTrader EURUSD,H1: Last incoming ask price=1.1249
+0	11:06:49.193	FollowTrader EURUSD,H1: Point size in the quote currency=1e-05
+0	11:06:49.193	FollowTrader EURUSD,H1: Digits after decimal point=5.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Spread value in points=19.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Stop level in points=40.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Lot size in the base currency=100000.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Tick value in the deposit currency=1.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Tick size in points=1e-05
+0	11:06:49.193	FollowTrader EURUSD,H1: Swap of the buy order=-5.3
+0	11:06:49.193	FollowTrader EURUSD,H1: Swap of the sell order=-0.9
+0	11:06:49.193	FollowTrader EURUSD,H1: Market starting date (for futures)=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Market expiration date (for futures)=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Trade is allowed for the symbol=1.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Minimum permitted amount of a lot=0.01
+0	11:06:49.193	FollowTrader EURUSD,H1: Step for changing lots=0.01
+0	11:06:49.193	FollowTrader EURUSD,H1: Maximum permitted amount of a lot=50.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Swap calculation method=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Profit calculation mode=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Margin calculation mode=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Initial margin requirements for 1 lot=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Hedged margin calculated for 1 lot=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: Free margin required to open 1 lot for buying=2249.8
+0	11:06:49.193	FollowTrader EURUSD,H1: Order freeze level in points=0.0
+0	11:06:49.193	FollowTrader EURUSD,H1: initialized
+0	11:07:44.617	Expert FollowTrader GOLD,H1: loaded successfully
+0	11:07:46.061	FollowTrader GOLD,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:07:46.061	FollowTrader GOLD,H1: Symbol=GOLD
+0	11:07:46.061	FollowTrader GOLD,H1: Low day price=1753.04
+0	11:07:46.061	FollowTrader GOLD,H1: High day price=1766.06
+0	11:07:46.061	FollowTrader GOLD,H1: The last incoming tick time=1593065261.0
+0	11:07:46.061	FollowTrader GOLD,H1: Last incoming bid price=1761.03
+0	11:07:46.061	FollowTrader GOLD,H1: Last incoming ask price=1761.39
+0	11:07:46.061	FollowTrader GOLD,H1: Point size in the quote currency=0.01
+0	11:07:46.061	FollowTrader GOLD,H1: Digits after decimal point=2.0
+0	11:07:46.061	FollowTrader GOLD,H1: Spread value in points=36.0
+0	11:07:46.061	FollowTrader GOLD,H1: Stop level in points=100.0
+0	11:07:46.061	FollowTrader GOLD,H1: Lot size in the base currency=100.0
+0	11:07:46.061	FollowTrader GOLD,H1: Tick value in the deposit currency=1.0
+0	11:07:46.061	FollowTrader GOLD,H1: Tick size in points=0.01
+0	11:07:46.061	FollowTrader GOLD,H1: Swap of the buy order=-9.359999999999999
+0	11:07:46.061	FollowTrader GOLD,H1: Swap of the sell order=-4.85
+0	11:07:46.061	FollowTrader GOLD,H1: Market starting date (for futures)=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: Market expiration date (for futures)=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: Trade is allowed for the symbol=1.0
+0	11:07:46.061	FollowTrader GOLD,H1: Minimum permitted amount of a lot=0.01
+0	11:07:46.061	FollowTrader GOLD,H1: Step for changing lots=0.01
+0	11:07:46.061	FollowTrader GOLD,H1: Maximum permitted amount of a lot=50.0
+0	11:07:46.061	FollowTrader GOLD,H1: Swap calculation method=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: Profit calculation mode=1.0
+0	11:07:46.061	FollowTrader GOLD,H1: Margin calculation mode=4.0
+0	11:07:46.061	FollowTrader GOLD,H1: Initial margin requirements for 1 lot=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: Hedged margin calculated for 1 lot=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: Free margin required to open 1 lot for buying=3522.78
+0	11:07:46.061	FollowTrader GOLD,H1: Order freeze level in points=0.0
+0	11:07:46.061	FollowTrader GOLD,H1: initialized
+0	11:08:03.695	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:08.258	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:08.258	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:08.926	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:08.926	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:08.976	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:09.565	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:09.565	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:09.682	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:09.682	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:09.760	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:09.760	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:11.273	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:11.273	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:11.331	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:11.331	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:12.305	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:12.305	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:12.904	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:12.904	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:15.058	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:15.330	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:16.309	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:16.309	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:16.675	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:16.675	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:17.903	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:17.904	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:18.912	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:20.081	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:20.904	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:22.601	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:22.601	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:23.058	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:23.058	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:23.135	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:23.135	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:26.633	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:26.633	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:27.557	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:27.557	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:27.631	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:27.673	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:27.673	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:27.771	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:27.771	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:27.862	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:30.457	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:30.457	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:30.831	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:30.831	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:30.857	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:30.857	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:31.070	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:31.393	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:31.393	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:31.481	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:31.481	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:31.647	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:31.647	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:32.060	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:32.060	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:32.262	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:32.262	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:32.376	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:32.376	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:32.453	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:32.453	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:32.562	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:32.562	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:32.663	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:32.663	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:33.081	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:33.081	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:33.163	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:33.163	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:33.195	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:33.506	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:34.385	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:34.385	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:34.594	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:34.594	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:35.031	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:35.031	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:35.074	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:35.074	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:35.188	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:35.188	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:38.274	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:38.274	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:38.517	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:38.517	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:38.707	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:38.707	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:40.562	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:40.562	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:40.891	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:41.113	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:41.546	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:43.123	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:43.495	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:43.495	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:43.561	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:43.712	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:43.712	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:43.809	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:43.809	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:44.255	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:44.255	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:44.552	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:44.552	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:45.304	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:45.518	FollowTrader GOLD,H1: 正常做了一个空单
+0	11:08:46.099	Automated trading disabled
+0	11:08:46.296	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:46.296	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:47.231	FollowTrader GOLD,H1: 正常做了一个空单
+3	11:08:47.231	FollowTrader GOLD,H1: trade operations not allowed by settings
+0	11:08:49.742	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:49.742	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:49.826	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:49.826	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:54.177	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:54.177	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:58.578	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:58.578	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:58.648	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:58.648	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:08:59.183	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:08:59.183	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:09:00.071	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:09:00.071	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:09:00.944	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:09:00.944	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:09:01.961	Automated trading enabled
+0	11:09:03.707	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:09:03.707	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:09:04.421	FollowTrader EURUSD,H1: 正常做了一个空单
+3	11:09:04.421	FollowTrader EURUSD,H1: invalid takeprofit for OrderSend function
+0	11:09:05.661	FollowTrader GOLD,H1: uninit reason 4
+0	11:09:05.665	Expert FollowTrader GOLD,H1: removed
+0	11:09:11.552	Expert FollowTrader SILVER,H1: loaded successfully
+0	11:09:13.232	FollowTrader SILVER,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:09:13.232	FollowTrader SILVER,H1: Symbol=SILVER
+0	11:09:13.232	FollowTrader SILVER,H1: Low day price=17.422
+0	11:09:13.232	FollowTrader SILVER,H1: High day price=17.578
+0	11:09:13.232	FollowTrader SILVER,H1: The last incoming tick time=1593065351.0
+0	11:09:13.232	FollowTrader SILVER,H1: Last incoming bid price=17.558
+0	11:09:13.232	FollowTrader SILVER,H1: Last incoming ask price=17.608
+0	11:09:13.232	FollowTrader SILVER,H1: Point size in the quote currency=0.001
+0	11:09:13.232	FollowTrader SILVER,H1: Digits after decimal point=3.0
+0	11:09:13.232	FollowTrader SILVER,H1: Spread value in points=50.0
+0	11:09:13.232	FollowTrader SILVER,H1: Stop level in points=140.0
+0	11:09:13.232	FollowTrader SILVER,H1: Lot size in the base currency=5000.0
+0	11:09:13.232	FollowTrader SILVER,H1: Tick value in the deposit currency=5.0
+0	11:09:13.232	FollowTrader SILVER,H1: Tick size in points=0.001
+0	11:09:13.232	FollowTrader SILVER,H1: Swap of the buy order=-0.98
+0	11:09:13.232	FollowTrader SILVER,H1: Swap of the sell order=-0.46
+0	11:09:13.232	FollowTrader SILVER,H1: Market starting date (for futures)=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: Market expiration date (for futures)=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: Trade is allowed for the symbol=1.0
+0	11:09:13.232	FollowTrader SILVER,H1: Minimum permitted amount of a lot=0.01
+0	11:09:13.232	FollowTrader SILVER,H1: Step for changing lots=0.01
+0	11:09:13.232	FollowTrader SILVER,H1: Maximum permitted amount of a lot=50.0
+0	11:09:13.232	FollowTrader SILVER,H1: Swap calculation method=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: Profit calculation mode=1.0
+0	11:09:13.232	FollowTrader SILVER,H1: Margin calculation mode=4.0
+0	11:09:13.232	FollowTrader SILVER,H1: Initial margin requirements for 1 lot=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: Hedged margin calculated for 1 lot=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: Free margin required to open 1 lot for buying=1760.8
+0	11:09:13.232	FollowTrader SILVER,H1: Order freeze level in points=0.0
+0	11:09:13.232	FollowTrader SILVER,H1: initialized
+0	11:09:16.225	FollowTrader SILVER,H1: uninit reason 4
+0	11:09:16.229	Expert FollowTrader SILVER,H1: removed
+0	11:09:34.498	Expert FollowTrader GOLD,H1: loaded successfully
+0	11:09:35.639	FollowTrader GOLD,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:09:35.639	FollowTrader GOLD,H1: Symbol=GOLD
+0	11:09:35.639	FollowTrader GOLD,H1: Low day price=1753.04
+0	11:09:35.639	FollowTrader GOLD,H1: High day price=1766.06
+0	11:09:35.639	FollowTrader GOLD,H1: The last incoming tick time=1593065365.0
+0	11:09:35.639	FollowTrader GOLD,H1: Last incoming bid price=1761.15
+0	11:09:35.639	FollowTrader GOLD,H1: Last incoming ask price=1761.51
+0	11:09:35.639	FollowTrader GOLD,H1: Point size in the quote currency=0.01
+0	11:09:35.639	FollowTrader GOLD,H1: Digits after decimal point=2.0
+0	11:09:35.639	FollowTrader GOLD,H1: Spread value in points=36.0
+0	11:09:35.639	FollowTrader GOLD,H1: Stop level in points=100.0
+0	11:09:35.639	FollowTrader GOLD,H1: Lot size in the base currency=100.0
+0	11:09:35.639	FollowTrader GOLD,H1: Tick value in the deposit currency=1.0
+0	11:09:35.639	FollowTrader GOLD,H1: Tick size in points=0.01
+0	11:09:35.639	FollowTrader GOLD,H1: Swap of the buy order=-9.359999999999999
+0	11:09:35.639	FollowTrader GOLD,H1: Swap of the sell order=-4.85
+0	11:09:35.639	FollowTrader GOLD,H1: Market starting date (for futures)=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: Market expiration date (for futures)=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: Trade is allowed for the symbol=1.0
+0	11:09:35.639	FollowTrader GOLD,H1: Minimum permitted amount of a lot=0.01
+0	11:09:35.639	FollowTrader GOLD,H1: Step for changing lots=0.01
+0	11:09:35.639	FollowTrader GOLD,H1: Maximum permitted amount of a lot=50.0
+0	11:09:35.639	FollowTrader GOLD,H1: Swap calculation method=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: Profit calculation mode=1.0
+0	11:09:35.639	FollowTrader GOLD,H1: Margin calculation mode=4.0
+0	11:09:35.639	FollowTrader GOLD,H1: Initial margin requirements for 1 lot=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: Hedged margin calculated for 1 lot=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: Free margin required to open 1 lot for buying=3523.02
+0	11:09:35.639	FollowTrader GOLD,H1: Order freeze level in points=0.0
+0	11:09:35.639	FollowTrader GOLD,H1: initialized
+0	11:09:38.782	FollowTrader GOLD,H1: uninit reason 4
+0	11:09:38.786	Expert FollowTrader GOLD,H1: removed
+0	11:14:41.998	FollowTrader EURUSD,H1: uninit reason 4
+0	11:14:42.103	Expert FollowTrader EURUSD,H1: removed
+0	11:14:43.291	Expert MarketI USDCHF,H1: loaded successfully
+0	11:14:44.983	MarketI USDCHF,H1: Symbol=USDCHF
+0	11:14:44.983	MarketI USDCHF,H1: Low day price=0.9468
+0	11:14:44.983	MarketI USDCHF,H1: High day price=0.94886
+0	11:14:44.983	MarketI USDCHF,H1: The last incoming tick time=1593065669.0
+0	11:14:44.983	MarketI USDCHF,H1: Last incoming bid price=0.94886
+0	11:14:44.983	MarketI USDCHF,H1: Last incoming ask price=0.94906
+0	11:14:44.983	MarketI USDCHF,H1: Point size in the quote currency=1e-05
+0	11:14:44.983	MarketI USDCHF,H1: Digits after decimal point=5.0
+0	11:14:44.983	MarketI USDCHF,H1: Spread value in points=20.0
+0	11:14:44.983	MarketI USDCHF,H1: Stop level in points=50.0
+0	11:14:44.983	MarketI USDCHF,H1: Lot size in the base currency=100000.0
+0	11:14:44.983	MarketI USDCHF,H1: Tick value in the deposit currency=1.053896254452712
+0	11:14:44.983	MarketI USDCHF,H1: Tick size in points=1e-05
+0	11:14:44.983	MarketI USDCHF,H1: Swap of the buy order=-0.31
+0	11:14:44.983	MarketI USDCHF,H1: Swap of the sell order=-4.93
+0	11:14:44.983	MarketI USDCHF,H1: Market starting date (for futures)=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Market expiration date (for futures)=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Trade is allowed for the symbol=1.0
+0	11:14:44.983	MarketI USDCHF,H1: Minimum permitted amount of a lot=0.01
+0	11:14:44.983	MarketI USDCHF,H1: Step for changing lots=0.01
+0	11:14:44.983	MarketI USDCHF,H1: Maximum permitted amount of a lot=50.0
+0	11:14:44.983	MarketI USDCHF,H1: Swap calculation method=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Profit calculation mode=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Margin calculation mode=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Initial margin requirements for 1 lot=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Hedged margin calculated for 1 lot=0.0
+0	11:14:44.983	MarketI USDCHF,H1: Free margin required to open 1 lot for buying=2000.0
+0	11:14:44.983	MarketI USDCHF,H1: Order freeze level in points=0.0
+0	11:14:44.983	MarketI USDCHF,H1: initialized
+0	11:14:56.823	Expert MarketI GOLD,H1: loaded successfully
+0	11:14:58.354	MarketI GOLD,H1: Symbol=GOLD
+0	11:14:58.354	MarketI GOLD,H1: Low day price=1753.04
+0	11:14:58.354	MarketI GOLD,H1: High day price=1766.06
+0	11:14:58.354	MarketI GOLD,H1: The last incoming tick time=1593065697.0
+0	11:14:58.354	MarketI GOLD,H1: Last incoming bid price=1760.72
+0	11:14:58.354	MarketI GOLD,H1: Last incoming ask price=1761.08
+0	11:14:58.354	MarketI GOLD,H1: Point size in the quote currency=0.01
+0	11:14:58.354	MarketI GOLD,H1: Digits after decimal point=2.0
+0	11:14:58.354	MarketI GOLD,H1: Spread value in points=36.0
+0	11:14:58.354	MarketI GOLD,H1: Stop level in points=100.0
+0	11:14:58.354	MarketI GOLD,H1: Lot size in the base currency=100.0
+0	11:14:58.354	MarketI GOLD,H1: Tick value in the deposit currency=1.0
+0	11:14:58.354	MarketI GOLD,H1: Tick size in points=0.01
+0	11:14:58.354	MarketI GOLD,H1: Swap of the buy order=-9.359999999999999
+0	11:14:58.354	MarketI GOLD,H1: Swap of the sell order=-4.85
+0	11:14:58.354	MarketI GOLD,H1: Market starting date (for futures)=0.0
+0	11:14:58.354	MarketI GOLD,H1: Market expiration date (for futures)=0.0
+0	11:14:58.354	MarketI GOLD,H1: Trade is allowed for the symbol=1.0
+0	11:14:58.354	MarketI GOLD,H1: Minimum permitted amount of a lot=0.01
+0	11:14:58.354	MarketI GOLD,H1: Step for changing lots=0.01
+0	11:14:58.354	MarketI GOLD,H1: Maximum permitted amount of a lot=50.0
+0	11:14:58.354	MarketI GOLD,H1: Swap calculation method=0.0
+0	11:14:58.354	MarketI GOLD,H1: Profit calculation mode=1.0
+0	11:14:58.354	MarketI GOLD,H1: Margin calculation mode=4.0
+0	11:14:58.354	MarketI GOLD,H1: Initial margin requirements for 1 lot=0.0
+0	11:14:58.354	MarketI GOLD,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:14:58.354	MarketI GOLD,H1: Hedged margin calculated for 1 lot=0.0
+0	11:14:58.354	MarketI GOLD,H1: Free margin required to open 1 lot for buying=3522.16
+0	11:14:58.354	MarketI GOLD,H1: Order freeze level in points=0.0
+0	11:14:58.354	MarketI GOLD,H1: initialized
+0	11:27:25.011	MarketI USDCHF,H1: uninit reason 4
+0	11:27:25.156	Expert MarketI USDCHF,H1: removed
+0	11:27:26.065	MarketI GOLD,H1: uninit reason 2
+0	11:27:26.067	Expert MarketI GOLD,H1: removed
+0	11:27:26.078	Expert MarketI GOLD,H1: loaded successfully
+0	11:27:26.098	MarketI GOLD,H1: Symbol=GOLD
+0	11:27:26.098	MarketI GOLD,H1: 今天最高价 = 1753.04
+0	11:27:26.098	MarketI GOLD,H1: 今天最低价 = 1766.06
+0	11:27:26.098	MarketI GOLD,H1: 最近的报价时间 = 1593066445.0
+0	11:27:26.098	MarketI GOLD,H1: 最近的做空价格 = 1762.31
+0	11:27:26.098	MarketI GOLD,H1: 最近的做多价格 = 1762.67
+0	11:27:26.098	MarketI GOLD,H1: 报价货币的点数大小 =0.01
+0	11:27:26.098	MarketI GOLD,H1: 符号价格中小数点后的位数计数 = 2.0
+0	11:27:26.098	MarketI GOLD,H1: 点差价值 = 36.0
+0	11:27:26.098	MarketI GOLD,H1: 止损点 = 100.0
+0	11:27:26.098	MarketI GOLD,H1: 基本货币的手数 = 100.0
+0	11:27:26.098	MarketI GOLD,H1: 存款货币的报价价格 = 1.0
+0	11:27:26.098	MarketI GOLD,H1: 刻度大小 = 0.01
+0	11:27:26.098	MarketI GOLD,H1: 买单互换 = -9.359999999999999
+0	11:27:26.098	MarketI GOLD,H1: 卖单互换 = -4.85
+0	11:27:26.098	MarketI GOLD,H1: 市场开始日期（通常用于期货） = 0.0
+0	11:27:26.098	MarketI GOLD,H1: 市场到期日（通常用于期货） = 0.0
+0	11:27:26.098	MarketI GOLD,H1: 该符号允许交易 = 1.0
+0	11:27:26.098	MarketI GOLD,H1: 最低允许数量 = 0.01
+0	11:27:26.098	MarketI GOLD,H1: 换手步骤 = 0.01
+0	11:27:26.098	MarketI GOLD,H1: 最大允许数量 = 50.0
+0	11:27:26.098	MarketI GOLD,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	11:27:26.098	MarketI GOLD,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	11:27:26.098	MarketI GOLD,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =4.0
+0	11:27:26.098	MarketI GOLD,H1: 1手的初始保证金要求 = 0.0
+0	11:27:26.098	MarketI GOLD,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	11:27:26.098	MarketI GOLD,H1: 计算1手的对冲保证金 = 0.0
+0	11:27:26.098	MarketI GOLD,H1: 开1手交易所需的可用保证金 = 3525.34
+0	11:27:26.098	MarketI GOLD,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	11:27:26.098	MarketI GOLD,H1: initialized
+0	11:27:26.253	Expert MarketI USDCHF,H1: loaded successfully
+0	11:27:27.761	MarketI USDCHF,H1: Symbol=USDCHF
+0	11:27:27.761	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	11:27:27.761	MarketI USDCHF,H1: 今天最低价 = 0.94887
+0	11:27:27.761	MarketI USDCHF,H1: 最近的报价时间 = 1593066443.0
+0	11:27:27.761	MarketI USDCHF,H1: 最近的做空价格 = 0.94845
+0	11:27:27.761	MarketI USDCHF,H1: 最近的做多价格 = 0.94865
+0	11:27:27.761	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	11:27:27.761	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	11:27:27.761	MarketI USDCHF,H1: 点差价值 = 20.0
+0	11:27:27.761	MarketI USDCHF,H1: 止损点 = 50.0
+0	11:27:27.761	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	11:27:27.761	MarketI USDCHF,H1: 存款货币的报价价格 = 1.054351837208076
+0	11:27:27.761	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	11:27:27.761	MarketI USDCHF,H1: 买单互换 = -0.31
+0	11:27:27.761	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	11:27:27.761	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	11:27:27.761	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	11:27:27.761	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	11:27:27.761	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	11:27:27.761	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	11:27:27.761	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 2000.0
+0	11:27:27.761	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	11:27:27.761	MarketI USDCHF,H1: initialized
+0	11:27:48.026	MarketI USDCHF,H1: uninit reason 4
+0	11:27:48.127	Expert MarketI USDCHF,H1: removed
+0	11:27:52.434	MarketI GOLD,H1: uninit reason 1
+0	11:27:52.437	Expert MarketI GOLD,H1: removed
+0	11:27:52.448	Expert FollowTrader GOLD,H1: loaded successfully
+0	11:27:53.625	FollowTrader GOLD,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	11:27:53.625	FollowTrader GOLD,H1: Symbol=GOLD
+0	11:27:53.625	FollowTrader GOLD,H1: Low day price=1753.04
+0	11:27:53.625	FollowTrader GOLD,H1: High day price=1766.06
+0	11:27:53.625	FollowTrader GOLD,H1: The last incoming tick time=1593066470.0
+0	11:27:53.625	FollowTrader GOLD,H1: Last incoming bid price=1762.3
+0	11:27:53.625	FollowTrader GOLD,H1: Last incoming ask price=1762.82
+0	11:27:53.625	FollowTrader GOLD,H1: Point size in the quote currency=0.01
+0	11:27:53.625	FollowTrader GOLD,H1: Digits after decimal point=2.0
+0	11:27:53.625	FollowTrader GOLD,H1: Spread value in points=52.0
+0	11:27:53.625	FollowTrader GOLD,H1: Stop level in points=100.0
+0	11:27:53.625	FollowTrader GOLD,H1: Lot size in the base currency=100.0
+0	11:27:53.625	FollowTrader GOLD,H1: Tick value in the deposit currency=1.0
+0	11:27:53.625	FollowTrader GOLD,H1: Tick size in points=0.01
+0	11:27:53.625	FollowTrader GOLD,H1: Swap of the buy order=-9.359999999999999
+0	11:27:53.625	FollowTrader GOLD,H1: Swap of the sell order=-4.85
+0	11:27:53.625	FollowTrader GOLD,H1: Market starting date (for futures)=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: Market expiration date (for futures)=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: Trade is allowed for the symbol=1.0
+0	11:27:53.625	FollowTrader GOLD,H1: Minimum permitted amount of a lot=0.01
+0	11:27:53.625	FollowTrader GOLD,H1: Step for changing lots=0.01
+0	11:27:53.625	FollowTrader GOLD,H1: Maximum permitted amount of a lot=50.0
+0	11:27:53.625	FollowTrader GOLD,H1: Swap calculation method=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: Profit calculation mode=1.0
+0	11:27:53.625	FollowTrader GOLD,H1: Margin calculation mode=4.0
+0	11:27:53.625	FollowTrader GOLD,H1: Initial margin requirements for 1 lot=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: Margin to maintain open orders calculated for 1 lot=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: Hedged margin calculated for 1 lot=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: Free margin required to open 1 lot for buying=3525.64
+0	11:27:53.625	FollowTrader GOLD,H1: Order freeze level in points=0.0
+0	11:27:53.625	FollowTrader GOLD,H1: initialized
+0	11:27:59.185	FollowTrader GOLD,H1: uninit reason 4
+0	11:27:59.190	Expert FollowTrader GOLD,H1: removed
+0	11:28:05.884	Expert MarketI GOLD,H1: loaded successfully
+0	11:28:07.101	MarketI GOLD,H1: Symbol=GOLD
+0	11:28:07.101	MarketI GOLD,H1: 今天最高价 = 1753.04
+0	11:28:07.101	MarketI GOLD,H1: 今天最低价 = 1766.06
+0	11:28:07.101	MarketI GOLD,H1: 最近的报价时间 = 1593066486.0
+0	11:28:07.101	MarketI GOLD,H1: 最近的做空价格 = 1762.31
+0	11:28:07.101	MarketI GOLD,H1: 最近的做多价格 = 1762.8
+0	11:28:07.101	MarketI GOLD,H1: 报价货币的点数大小 =0.01
+0	11:28:07.101	MarketI GOLD,H1: 符号价格中小数点后的位数计数 = 2.0
+0	11:28:07.101	MarketI GOLD,H1: 点差价值 = 49.0
+0	11:28:07.101	MarketI GOLD,H1: 止损点 = 100.0
+0	11:28:07.101	MarketI GOLD,H1: 基本货币的手数 = 100.0
+0	11:28:07.101	MarketI GOLD,H1: 存款货币的报价价格 = 1.0
+0	11:28:07.101	MarketI GOLD,H1: 刻度大小 = 0.01
+0	11:28:07.101	MarketI GOLD,H1: 买单互换 = -9.359999999999999
+0	11:28:07.101	MarketI GOLD,H1: 卖单互换 = -4.85
+0	11:28:07.101	MarketI GOLD,H1: 市场开始日期（通常用于期货） = 0.0
+0	11:28:07.101	MarketI GOLD,H1: 市场到期日（通常用于期货） = 0.0
+0	11:28:07.101	MarketI GOLD,H1: 该符号允许交易 = 1.0
+0	11:28:07.101	MarketI GOLD,H1: 最低允许数量 = 0.01
+0	11:28:07.101	MarketI GOLD,H1: 换手步骤 = 0.01
+0	11:28:07.101	MarketI GOLD,H1: 最大允许数量 = 50.0
+0	11:28:07.101	MarketI GOLD,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	11:28:07.101	MarketI GOLD,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	11:28:07.101	MarketI GOLD,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =4.0
+0	11:28:07.101	MarketI GOLD,H1: 1手的初始保证金要求 = 0.0
+0	11:28:07.101	MarketI GOLD,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	11:28:07.101	MarketI GOLD,H1: 计算1手的对冲保证金 = 0.0
+0	11:28:07.101	MarketI GOLD,H1: 开1手交易所需的可用保证金 = 3525.6
+0	11:28:07.101	MarketI GOLD,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	11:28:07.101	MarketI GOLD,H1: initialized
+0	11:29:54.030	Automated trading disabled
+3	11:29:54.030	Automated trading disabled because the account has been changed
+0	11:29:58.581	MarketI GOLD,H1: uninit reason 6
+0	11:29:58.582	MarketI GOLD,H1: Symbol=GOLD
+0	11:29:58.582	MarketI GOLD,H1: 今天最高价 = 1761.49
+0	11:29:58.582	MarketI GOLD,H1: 今天最低价 = 1779.19
+0	11:29:58.582	MarketI GOLD,H1: 最近的报价时间 = 1593020228.0
+0	11:29:58.582	MarketI GOLD,H1: 最近的做空价格 = 1771.09
+0	11:29:58.582	MarketI GOLD,H1: 最近的做多价格 = 1771.68
+0	11:29:58.582	MarketI GOLD,H1: 报价货币的点数大小 =0.01
+0	11:29:58.582	MarketI GOLD,H1: 符号价格中小数点后的位数计数 = 2.0
+0	11:29:58.582	MarketI GOLD,H1: 点差价值 = 59.0
+0	11:29:58.582	MarketI GOLD,H1: 止损点 = 100.0
+0	11:29:58.582	MarketI GOLD,H1: 基本货币的手数 = 100.0
+0	11:29:58.582	MarketI GOLD,H1: 存款货币的报价价格 = 0.8876264867743653
+0	11:29:58.582	MarketI GOLD,H1: 刻度大小 = 0.01
+0	11:29:58.582	MarketI GOLD,H1: 买单互换 = -9.359999999999999
+0	11:29:58.582	MarketI GOLD,H1: 卖单互换 = -4.85
+0	11:29:58.582	MarketI GOLD,H1: 市场开始日期（通常用于期货） = 0.0
+0	11:29:58.582	MarketI GOLD,H1: 市场到期日（通常用于期货） = 0.0
+0	11:29:58.582	MarketI GOLD,H1: 该符号允许交易 = 1.0
+0	11:29:58.582	MarketI GOLD,H1: 最低允许数量 = 0.01
+0	11:29:58.583	MarketI GOLD,H1: 换手步骤 = 0.01
+0	11:29:58.583	MarketI GOLD,H1: 最大允许数量 = 50.0
+0	11:29:58.583	MarketI GOLD,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	11:29:58.583	MarketI GOLD,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	11:29:58.583	MarketI GOLD,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =4.0
+0	11:29:58.583	MarketI GOLD,H1: 1手的初始保证金要求 = 0.0
+0	11:29:58.583	MarketI GOLD,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	11:29:58.583	MarketI GOLD,H1: 计算1手的对冲保证金 = 0.0
+0	11:29:58.583	MarketI GOLD,H1: 开1手交易所需的可用保证金 = 177.08
+0	11:29:58.583	MarketI GOLD,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	11:29:58.583	MarketI GOLD,H1: initialized
+0	11:55:28.773	MarketI GOLD,H1: uninit reason 1
+0	11:55:28.776	Expert MarketI GOLD,H1: removed
+0	11:55:28.785	Expert MarketI GOLD,H1: loaded successfully
+0	11:55:30.002	MarketI GOLD,H1: Symbol=GOLD
+0	11:55:30.002	MarketI GOLD,H1: 今天最高价 = 1753.02
+0	11:55:30.002	MarketI GOLD,H1: 今天最低价 = 1766.01
+0	11:55:30.002	MarketI GOLD,H1: 最近的报价时间 = 1593068128.0
+0	11:55:30.002	MarketI GOLD,H1: 最近的做空价格 = 1761.89
+0	11:55:30.002	MarketI GOLD,H1: 最近的做多价格 = 1762.22
+0	11:55:30.002	MarketI GOLD,H1: 报价货币的点数大小 =0.01
+0	11:55:30.002	MarketI GOLD,H1: 符号价格中小数点后的位数计数 = 2.0
+0	11:55:30.002	MarketI GOLD,H1: 点差价值 = 33.0
+0	11:55:30.002	MarketI GOLD,H1: 止损点 = 100.0
+0	11:55:30.002	MarketI GOLD,H1: 基本货币的手数 = 100.0
+0	11:55:30.002	MarketI GOLD,H1: 存款货币的报价价格 = 0.8896876306728707
+0	11:55:30.002	MarketI GOLD,H1: 刻度大小 = 0.01
+0	11:55:30.002	MarketI GOLD,H1: 买单互换 = -9.359999999999999
+0	11:55:30.002	MarketI GOLD,H1: 卖单互换 = -4.85
+0	11:55:30.002	MarketI GOLD,H1: 市场开始日期（通常用于期货） = 0.0
+0	11:55:30.002	MarketI GOLD,H1: 市场到期日（通常用于期货） = 0.0
+0	11:55:30.002	MarketI GOLD,H1: 该符号允许交易 = 1.0
+0	11:55:30.002	MarketI GOLD,H1: 最低允许数量 = 0.01
+0	11:55:30.002	MarketI GOLD,H1: 换手步骤 = 0.01
+0	11:55:30.002	MarketI GOLD,H1: 最大允许数量 = 50.0
+0	11:55:30.002	MarketI GOLD,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	11:55:30.002	MarketI GOLD,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	11:55:30.002	MarketI GOLD,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =4.0
+0	11:55:30.002	MarketI GOLD,H1: 1手的初始保证金要求 = 0.0
+0	11:55:30.002	MarketI GOLD,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	11:55:30.002	MarketI GOLD,H1: 计算1手的对冲保证金 = 0.0
+0	11:55:30.002	MarketI GOLD,H1: 开1手交易所需的可用保证金 = 176.54
+0	11:55:30.002	MarketI GOLD,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	11:55:30.002	MarketI GOLD,H1: initialized
+0	11:58:20.317	MarketI GOLD,H1: uninit reason 1
+0	11:58:20.320	Expert MarketI GOLD,H1: removed
+0	11:58:20.330	Expert MarketI GOLD,H1: loaded successfully
+0	11:58:21.690	MarketI GOLD,H1: Symbol=GOLD
+0	11:58:21.690	MarketI GOLD,H1: 今天最高价 = 1753.02
+0	11:58:21.690	MarketI GOLD,H1: 今天最低价 = 1766.01
+0	11:58:21.690	MarketI GOLD,H1: 最近的报价时间 = 1593068300.0
+0	11:58:21.690	MarketI GOLD,H1: 最近的做空价格 = 1762.44
+0	11:58:21.690	MarketI GOLD,H1: 最近的做多价格 = 1762.82
+0	11:58:21.690	MarketI GOLD,H1: 报价货币的点数大小 =0.01
+0	11:58:21.690	MarketI GOLD,H1: 符号价格中小数点后的位数计数 = 2.0
+0	11:58:21.690	MarketI GOLD,H1: 点差价值 = 38.0
+0	11:58:21.690	MarketI GOLD,H1: 止损点 = 100.0
+0	11:58:21.690	MarketI GOLD,H1: 基本货币的手数 = 100.0
+0	11:58:21.690	MarketI GOLD,H1: 存款货币的报价价格 = 0.889592655523036
+0	11:58:21.690	MarketI GOLD,H1: 刻度大小 = 0.01
+0	11:58:21.690	MarketI GOLD,H1: 买单互换 = -9.359999999999999
+0	11:58:21.690	MarketI GOLD,H1: 卖单互换 = -4.85
+0	11:58:21.690	MarketI GOLD,H1: 市场开始日期（通常用于期货） = 0.0
+0	11:58:21.690	MarketI GOLD,H1: 市场到期日（通常用于期货） = 0.0
+0	11:58:21.690	MarketI GOLD,H1: 该符号允许交易 = 1.0
+0	11:58:21.690	MarketI GOLD,H1: 最低允许数量 = 0.01
+0	11:58:21.690	MarketI GOLD,H1: 换手步骤 = 0.01
+0	11:58:21.690	MarketI GOLD,H1: 最大允许数量 = 50.0
+0	11:58:21.690	MarketI GOLD,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	11:58:21.690	MarketI GOLD,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	11:58:21.690	MarketI GOLD,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =4.0
+0	11:58:21.690	MarketI GOLD,H1: 1手的初始保证金要求 = 0.0
+0	11:58:21.690	MarketI GOLD,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	11:58:21.690	MarketI GOLD,H1: 计算1手的对冲保证金 = 0.0
+0	11:58:21.690	MarketI GOLD,H1: 开1手交易所需的可用保证金 = 176.58
+0	11:58:21.690	MarketI GOLD,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	11:58:21.690	MarketI GOLD,H1: initialized
+0	12:06:24.241	Expert MarketI US30-SEP20,H1: loaded successfully
+0	12:06:25.424	MarketI US30-SEP20,H1: Symbol=US30-SEP20
+0	12:06:25.424	MarketI US30-SEP20,H1: 今天最高价 = 25144.25
+0	12:06:25.424	MarketI US30-SEP20,H1: 今天最低价 = 25463.25
+0	12:06:25.424	MarketI US30-SEP20,H1: 最近的报价时间 = 1593068785.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 最近的做空价格 = 25258.25
+0	12:06:25.424	MarketI US30-SEP20,H1: 最近的做多价格 = 25264.75
+0	12:06:25.424	MarketI US30-SEP20,H1: 报价货币的点数大小 =0.01
+0	12:06:25.424	MarketI US30-SEP20,H1: 符号价格中小数点后的位数计数 = 2.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 点差价值 = 650.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 止损点 = 800.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 基本货币的手数 = 1.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 存款货币的报价价格 = 0.01
+0	12:06:25.424	MarketI US30-SEP20,H1: 刻度大小 = 0.01
+0	12:06:25.424	MarketI US30-SEP20,H1: 买单互换 = -0.47
+0	12:06:25.424	MarketI US30-SEP20,H1: 卖单互换 = -0.23
+0	12:06:25.424	MarketI US30-SEP20,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 市场到期日（通常用于期货） = 0.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 该符号允许交易 = 1.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 最低允许数量 = 1.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 换手步骤 = 1.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 最大允许数量 = 12500.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 3.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =1.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 1手的初始保证金要求 = 0.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:06:25.424	MarketI US30-SEP20,H1: 计算1手的对冲保证金 = 0.5
+0	12:06:25.424	MarketI US30-SEP20,H1: 开1手交易所需的可用保证金 = 224.72
+0	12:06:25.424	MarketI US30-SEP20,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:06:25.424	MarketI US30-SEP20,H1: initialized
+0	12:38:41.891	MarketI GOLD,H1: uninit reason 2
+0	12:38:41.893	Expert MarketI GOLD,H1: removed
+0	12:38:41.903	Expert MarketI GOLD,H1: loaded successfully
+0	12:38:41.918	MarketI GOLD,H1: Symbol=GOLD
+0	12:38:41.918	MarketI GOLD,H1: 今天最高价 = 1753.02
+0	12:38:41.918	MarketI GOLD,H1: 今天最低价 = 1766.01
+0	12:38:41.918	MarketI GOLD,H1: 最近的报价时间 = 1593070718.0
+0	12:38:41.918	MarketI GOLD,H1: 最近的做空价格 = 1762.16
+0	12:38:41.918	MarketI GOLD,H1: 最近的做多价格 = 1762.79
+0	12:38:41.918	MarketI GOLD,H1: 报价货币的点数大小 =0.01
+0	12:38:41.918	MarketI GOLD,H1: 符号价格中小数点后的位数计数 = 2.0
+0	12:38:41.918	MarketI GOLD,H1: 点差价值 = 63.0
+0	12:38:41.918	MarketI GOLD,H1: 止损点 = 100.0
+0	12:38:41.918	MarketI GOLD,H1: 基本货币的手数 = 100.0
+0	12:38:41.918	MarketI GOLD,H1: 存款货币的报价价格 = 0.8892920346112461
+0	12:38:41.918	MarketI GOLD,H1: 刻度大小 = 0.01
+0	12:38:41.918	MarketI GOLD,H1: 买单互换 = -9.359999999999999
+0	12:38:41.918	MarketI GOLD,H1: 卖单互换 = -4.85
+0	12:38:41.918	MarketI GOLD,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:38:41.918	MarketI GOLD,H1: 市场到期日（通常用于期货） = 0.0
+0	12:38:41.918	MarketI GOLD,H1: 该符号允许交易 = 1.0
+0	12:38:41.918	MarketI GOLD,H1: 最低允许数量 = 0.01
+0	12:38:41.918	MarketI GOLD,H1: 换手步骤 = 0.01
+0	12:38:41.918	MarketI GOLD,H1: 最大允许数量 = 50.0
+0	12:38:41.918	MarketI GOLD,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:38:41.918	MarketI GOLD,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	12:38:41.918	MarketI GOLD,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =4.0
+0	12:38:41.918	MarketI GOLD,H1: 1手的初始保证金要求 = 0.0
+0	12:38:41.918	MarketI GOLD,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:38:41.918	MarketI GOLD,H1: 计算1手的对冲保证金 = 0.0
+0	12:38:41.918	MarketI GOLD,H1: 开1手交易所需的可用保证金 = 176.52
+0	12:38:41.918	MarketI GOLD,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:38:41.918	MarketI GOLD,H1: initialized
+0	12:38:42.005	MarketI US30-SEP20,H1: uninit reason 2
+0	12:38:42.007	Expert MarketI US30-SEP20,H1: removed
+0	12:38:42.017	Expert MarketI US30-SEP20,H1: loaded successfully
+0	12:38:42.032	MarketI US30-SEP20,H1: Symbol=US30-SEP20
+0	12:38:42.032	MarketI US30-SEP20,H1: 今天最高价 = 25144.25
+0	12:38:42.032	MarketI US30-SEP20,H1: 今天最低价 = 25463.25
+0	12:38:42.032	MarketI US30-SEP20,H1: 最近的报价时间 = 1593070721.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 最近的做空价格 = 25205.75
+0	12:38:42.032	MarketI US30-SEP20,H1: 最近的做多价格 = 25212.25
+0	12:38:42.032	MarketI US30-SEP20,H1: 报价货币的点数大小 =0.01
+0	12:38:42.032	MarketI US30-SEP20,H1: 符号价格中小数点后的位数计数 = 2.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 点差价值 = 650.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 止损点 = 800.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 基本货币的手数 = 1.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 存款货币的报价价格 = 0.01
+0	12:38:42.032	MarketI US30-SEP20,H1: 刻度大小 = 0.01
+0	12:38:42.032	MarketI US30-SEP20,H1: 买单互换 = -0.47
+0	12:38:42.032	MarketI US30-SEP20,H1: 卖单互换 = -0.23
+0	12:38:42.032	MarketI US30-SEP20,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 市场到期日（通常用于期货） = 0.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 该符号允许交易 = 1.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 最低允许数量 = 1.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 换手步骤 = 1.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 最大允许数量 = 12500.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 3.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 1.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =1.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 1手的初始保证金要求 = 0.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:38:42.032	MarketI US30-SEP20,H1: 计算1手的对冲保证金 = 0.5
+0	12:38:42.032	MarketI US30-SEP20,H1: 开1手交易所需的可用保证金 = 224.19
+0	12:38:42.032	MarketI US30-SEP20,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:38:42.032	MarketI US30-SEP20,H1: initialized
+0	12:38:42.060	Expert MarketI USDCHF,H1: loaded successfully
+0	12:38:43.833	MarketI USDCHF,H1: Symbol=USDCHF
+0	12:38:43.833	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	12:38:43.833	MarketI USDCHF,H1: 今天最低价 = 0.94911
+0	12:38:43.833	MarketI USDCHF,H1: 最近的报价时间 = 1593070717.0
+0	12:38:43.833	MarketI USDCHF,H1: 最近的做空价格 = 0.94868
+0	12:38:43.833	MarketI USDCHF,H1: 最近的做多价格 = 0.9489300000000001
+0	12:38:43.833	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	12:38:43.833	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	12:38:43.833	MarketI USDCHF,H1: 点差价值 = 25.0
+0	12:38:43.833	MarketI USDCHF,H1: 止损点 = 50.0
+0	12:38:43.833	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	12:38:43.833	MarketI USDCHF,H1: 存款货币的报价价格 = 0.9373125374925015
+0	12:38:43.833	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	12:38:43.833	MarketI USDCHF,H1: 买单互换 = -0.31
+0	12:38:43.833	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	12:38:43.833	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:38:43.833	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	12:38:43.833	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	12:38:43.833	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	12:38:43.833	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	12:38:43.833	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	12:38:43.833	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:38:43.833	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	12:38:43.833	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	12:38:43.833	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	12:38:43.834	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:38:43.834	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	12:38:43.834	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 100.14
+0	12:38:43.834	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:38:43.834	MarketI USDCHF,H1: initialized
+0	12:40:00.300	MarketI GOLD,H1: uninit reason 4
+0	12:40:00.304	Expert MarketI GOLD,H1: removed
+0	12:40:02.056	MarketI USDCHF,H1: uninit reason 4
+0	12:40:02.130	Expert MarketI USDCHF,H1: removed
+0	12:40:04.052	MarketI US30-SEP20,H1: uninit reason 4
+0	12:40:04.055	Expert MarketI US30-SEP20,H1: removed
+0	12:40:27.863	Expert MarketI USDCHF,H1: loaded successfully
+0	12:40:29.233	MarketI USDCHF,H1: Symbol=USDCHF
+0	12:40:29.233	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	12:40:29.233	MarketI USDCHF,H1: 今天最低价 = 0.94911
+0	12:40:29.233	MarketI USDCHF,H1: 最近的报价时间 = 1593070822.0
+0	12:40:29.233	MarketI USDCHF,H1: 最近的做空价格 = 0.94868
+0	12:40:29.233	MarketI USDCHF,H1: 最近的做多价格 = 0.9489300000000001
+0	12:40:29.233	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	12:40:29.233	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	12:40:29.233	MarketI USDCHF,H1: 点差价值 = 25.0
+0	12:40:29.233	MarketI USDCHF,H1: 止损点 = 50.0
+0	12:40:29.233	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	12:40:29.233	MarketI USDCHF,H1: 存款货币的报价价格 = 0.9373564672909462
+0	12:40:29.233	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	12:40:29.233	MarketI USDCHF,H1: 买单互换 = -0.31
+0	12:40:29.233	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	12:40:29.233	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	12:40:29.233	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	12:40:29.233	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	12:40:29.233	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	12:40:29.233	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	12:40:29.233	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 100.14
+0	12:40:29.233	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:40:29.233	MarketI USDCHF,H1: initialized
+0	12:40:34.490	MarketI USDCHF,H1: uninit reason 4
+0	12:40:34.592	Expert MarketI USDCHF,H1: removed
+0	12:43:36.656	Expert MarketI USDCHF,H1: loaded successfully
+0	12:43:38.176	MarketI USDCHF,H1: Symbol=USDCHF
+0	12:43:38.176	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	12:43:38.176	MarketI USDCHF,H1: 今天最低价 = 0.94911
+0	12:43:38.176	MarketI USDCHF,H1: 最近的报价时间 = 1593071017.0
+0	12:43:38.176	MarketI USDCHF,H1: 最近的做空价格 = 0.94886
+0	12:43:38.176	MarketI USDCHF,H1: 最近的做多价格 = 0.94909
+0	12:43:38.176	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	12:43:38.176	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	12:43:38.176	MarketI USDCHF,H1: 点差价值 = 23.0
+0	12:43:38.176	MarketI USDCHF,H1: 止损点 = 50.0
+0	12:43:38.176	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	12:43:38.176	MarketI USDCHF,H1: 存款货币的报价价格 = 0.9371017317640004
+0	12:43:38.176	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	12:43:38.176	MarketI USDCHF,H1: 买单互换 = -0.31
+0	12:43:38.176	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	12:43:38.176	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	12:43:38.176	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	12:43:38.176	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	12:43:38.176	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	12:43:38.176	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	12:43:38.176	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 100.13
+0	12:43:38.176	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:43:38.176	MarketI USDCHF,H1: initialized
+0	12:47:03.583	MarketI USDCHF,H1: uninit reason 4
+0	12:47:03.701	Expert MarketI USDCHF,H1: removed
+0	12:47:04.816	Expert MarketI USDCHF,H1: loaded successfully
+0	12:47:09.585	Expert MarketI USDCHF,H1: removed
+0	12:49:26.388	Expert MarketI USDCHF,H1: loaded successfully
+0	12:49:28.002	MarketI USDCHF,H1: Symbol=USDCHF
+0	12:49:28.002	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	12:49:28.002	MarketI USDCHF,H1: 今天最低价 = 0.94911
+0	12:49:28.002	MarketI USDCHF,H1: 最近的报价时间 = 1593071364.0
+0	12:49:28.002	MarketI USDCHF,H1: 最近的做空价格 = 0.94876
+0	12:49:28.002	MarketI USDCHF,H1: 最近的做多价格 = 0.949
+0	12:49:28.002	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	12:49:28.002	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	12:49:28.002	MarketI USDCHF,H1: 点差价值 = 24.0
+0	12:49:28.002	MarketI USDCHF,H1: 止损点 = 50.0
+0	12:49:28.002	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	12:49:28.002	MarketI USDCHF,H1: 存款货币的报价价格 = 0.9371280772943238
+0	12:49:28.002	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	12:49:28.002	MarketI USDCHF,H1: 买单互换 = -0.31
+0	12:49:28.002	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	12:49:28.002	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	12:49:28.002	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	12:49:28.002	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	12:49:28.002	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	12:49:28.002	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	12:49:28.002	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 100.12
+0	12:49:28.002	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:49:28.002	MarketI USDCHF,H1: initialized
+0	12:50:43.846	Automated trading enabled
+0	12:50:49.464	MarketI USDCHF,H1: uninit reason 4
+0	12:50:49.535	Expert MarketI USDCHF,H1: removed
+0	12:50:50.549	Expert MarketI USDCHF,H1: loaded successfully
+0	12:50:51.929	MarketI USDCHF,H1: Symbol=USDCHF
+0	12:50:51.929	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	12:50:51.929	MarketI USDCHF,H1: 今天最低价 = 0.94911
+0	12:50:51.929	MarketI USDCHF,H1: 最近的报价时间 = 1593071447.0
+0	12:50:51.929	MarketI USDCHF,H1: 最近的做空价格 = 0.94876
+0	12:50:51.929	MarketI USDCHF,H1: 最近的做多价格 = 0.94899
+0	12:50:51.929	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	12:50:51.929	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	12:50:51.929	MarketI USDCHF,H1: 点差价值 = 23.0
+0	12:50:51.929	MarketI USDCHF,H1: 止损点 = 50.0
+0	12:50:51.929	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	12:50:51.929	MarketI USDCHF,H1: 存款货币的报价价格 = 0.9371280772943238
+0	12:50:51.929	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	12:50:51.929	MarketI USDCHF,H1: 买单互换 = -0.31
+0	12:50:51.929	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	12:50:51.929	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:50:51.929	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	12:50:51.929	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	12:50:51.929	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	12:50:51.929	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	12:50:51.929	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	12:50:51.929	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:50:51.929	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	12:50:51.930	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	12:50:51.930	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	12:50:51.930	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:50:51.930	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	12:50:51.930	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 100.12
+0	12:50:51.930	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:50:51.930	MarketI USDCHF,H1: initialized
+0	12:52:34.997	MarketI USDCHF,H1: uninit reason 4
+0	12:52:35.034	Expert MarketI USDCHF,H1: removed
+0	12:52:36.122	Expert MarketI USDCHF,H1: loaded successfully
+0	12:52:39.086	MarketI USDCHF,H1: Symbol=USDCHF
+0	12:52:39.086	MarketI USDCHF,H1: 今天最高价 = 0.9468
+0	12:52:39.086	MarketI USDCHF,H1: 今天最低价 = 0.94911
+0	12:52:39.086	MarketI USDCHF,H1: 最近的报价时间 = 1593071556.0
+0	12:52:39.086	MarketI USDCHF,H1: 最近的做空价格 = 0.94876
+0	12:52:39.086	MarketI USDCHF,H1: 最近的做多价格 = 0.949
+0	12:52:39.086	MarketI USDCHF,H1: 报价货币的点数大小 =1e-05
+0	12:52:39.086	MarketI USDCHF,H1: 符号价格中小数点后的位数计数 = 5.0
+0	12:52:39.086	MarketI USDCHF,H1: 点差价值 = 24.0
+0	12:52:39.086	MarketI USDCHF,H1: 止损点 = 50.0
+0	12:52:39.086	MarketI USDCHF,H1: 基本货币的手数 = 100000.0
+0	12:52:39.086	MarketI USDCHF,H1: 存款货币的报价价格 = 0.9370841689000506
+0	12:52:39.086	MarketI USDCHF,H1: 刻度大小 = 1e-05
+0	12:52:39.086	MarketI USDCHF,H1: 买单互换 = -0.31
+0	12:52:39.086	MarketI USDCHF,H1: 卖单互换 = -4.93
+0	12:52:39.086	MarketI USDCHF,H1: 市场开始日期（通常用于期货） = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 市场到期日（通常用于期货） = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 该符号允许交易 = 1.0
+0	12:52:39.086	MarketI USDCHF,H1: 最低允许数量 = 0.01
+0	12:52:39.086	MarketI USDCHF,H1: 换手步骤 = 0.01
+0	12:52:39.086	MarketI USDCHF,H1: 最大允许数量 = 50.0
+0	12:52:39.086	MarketI USDCHF,H1: 掉期计算方法。0-积分；1-使用符号基础货币；2-按利息；3-保证金货币 = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 利润计算模式。0-外汇；1-差价合约; 2-期货 = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 保证金计算模式。0-外汇；1-差价合约; 2-期货；3-指数差价合约 =0.0
+0	12:52:39.086	MarketI USDCHF,H1: 1手的初始保证金要求 = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 维持按1手计算的未结订单保证金 = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 计算1手的对冲保证金 = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: 开1手交易所需的可用保证金 = 100.12
+0	12:52:39.086	MarketI USDCHF,H1: 以点为单位的冻结级别。如果执行价格在冻结级别定义的范围内，则无法修改，取消或关闭订单 = 0.0
+0	12:52:39.086	MarketI USDCHF,H1: initialized
+0	12:52:49.362	MarketI USDCHF,H1: uninit reason 9
+0	12:52:49.509	Expert MarketI USDCHF,H1: removed
+0	12:53:57.573	Expert FollowTrader USDCHF,H1: loaded successfully
+0	12:53:59.177	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	12:53:59.177	FollowTrader USDCHF,H1: initialized
+0	12:56:39.500	FollowTrader USDCHF,H1: uninit reason 4
+0	12:56:39.614	Expert FollowTrader USDCHF,H1: removed
+0	12:56:40.630	Expert FollowTrader USDCHF,H1: loaded successfully
+0	12:56:46.067	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	12:56:46.067	FollowTrader USDCHF,H1: initialized
+0	12:57:26.982	FollowTrader USDCHF,H1: uninit reason 4
+0	12:57:27.052	Expert FollowTrader USDCHF,H1: removed
+0	12:57:47.373	Expert FollowTrader USDCHF,H1: loaded successfully
+0	12:57:49.055	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	12:57:49.055	FollowTrader USDCHF,H1: initialized
+0	15:10:01.964	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:01.964	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:02.773	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:02.773	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:03.219	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:03.219	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:03.673	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:03.673	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:04.168	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:04.168	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:04.380	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:04.380	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:06.469	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:06.469	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:09.301	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:09.301	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:09.982	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:09.982	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:10.649	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:10.649	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:11.270	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:11.270	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:11.466	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:11.466	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:12.283	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:12.283	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:13.204	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:13.204	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:16.496	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:16.496	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:16.702	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:16.702	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:17.810	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:17.810	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:17.946	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:17.946	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:18.211	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:18.211	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:21.065	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:21.065	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:21.474	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:21.474	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:22.338	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:22.338	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:22.690	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:22.690	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:24.581	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:24.581	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:25.599	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:25.599	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:27.237	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:27.237	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:31.196	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:31.196	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:31.376	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:31.376	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:32.542	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:32.542	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:32.864	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:32.864	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:33.528	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:33.528	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:33.729	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:33.729	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:34.298	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:34.298	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:35.536	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:35.536	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:38.630	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:38.630	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:39.451	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:39.451	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:39.661	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:39.661	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:39.949	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:39.949	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:41.478	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:41.479	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:49.087	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:49.087	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:53.335	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:53.335	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:53.625	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:53.625	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:53.788	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:53.788	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:54.184	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:54.184	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:54.909	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:54.909	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:55.539	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:55.539	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:55.860	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:55.860	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:10:58.422	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:10:58.422	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:00.360	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:00.360	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:01.441	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:01.441	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:01.627	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:01.627	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:02.070	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:02.070	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:03.573	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:03.573	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:04.301	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:04.301	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:05.512	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:05.512	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:05.701	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:05.701	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:07.579	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:07.579	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:08.044	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:08.044	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:09.140	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:09.140	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:09.514	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:09.514	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:10.029	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:10.029	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:10.203	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:10.203	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:11.534	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:11.534	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:11.648	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:11.648	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:13.782	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:13.782	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:17.339	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:17.339	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:18.342	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:18.342	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:23.077	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:23.077	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:24.020	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:24.020	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:24.552	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:24.552	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:27.551	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:27.551	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:28.263	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:28.263	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:28.420	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:28.420	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:29.806	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:29.806	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:32.948	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:32.948	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:33.345	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:33.345	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:33.554	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:33.554	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:34.200	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:34.200	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:38.291	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:38.291	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:40.107	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:40.107	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:40.299	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:40.299	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:40.536	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:40.536	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:41.488	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:41.488	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:41.646	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:41.646	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:41.895	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:41.895	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:42.200	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:42.200	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:43.607	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:43.607	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:44.154	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:44.154	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:44.355	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:44.355	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:45.700	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:45.700	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:47.012	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:47.012	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:48.878	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:48.878	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:49.322	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:49.322	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:50.249	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:50.249	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:50.872	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:50.872	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:51.035	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:51.035	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:51.222	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:51.222	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:11:51.540	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:11:51.540	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:00.949	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:00.949	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:06.313	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:06.313	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:06.780	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:06.780	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:07.091	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:07.091	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:08.321	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:08.321	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:08.855	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:08.855	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:09.664	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:09.664	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:10.031	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:10.031	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:10.976	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:10.976	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:11.978	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:11.978	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:14.539	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:14.539	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:15.344	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:15.344	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:15.616	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:15.616	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:16.114	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:16.114	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:16.785	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:16.785	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:17.335	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:17.335	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:19.758	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:19.758	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:20.089	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:20.089	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:21.589	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:21.589	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:25.405	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:25.405	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:26.482	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:26.482	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:27.181	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:27.181	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:28.074	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:28.074	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:28.397	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:28.397	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:28.720	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:28.720	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:32.532	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:32.532	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:39.625	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:39.625	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:39.821	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:39.821	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:40.479	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:40.479	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:41.434	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:41.434	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:44.669	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:44.669	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:55.812	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:55.812	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:56.298	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:56.298	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:58.501	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:58.501	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:12:59.594	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:12:59.594	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:00.504	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:00.504	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:01.185	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:01.185	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:01.416	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:01.416	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:01.587	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:01.587	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:03.351	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:03.351	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:05.522	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:05.522	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:06.480	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:06.480	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:07.140	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:07.140	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:07.373	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:07.373	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:08.717	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:08.717	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:09.854	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:09.854	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:10.067	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:10.067	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:10.285	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:10.285	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:11.130	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:11.130	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:11.461	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:11.461	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:12.511	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:12.511	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:14.017	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:14.017	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:14.291	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:14.291	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:16.134	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:16.134	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:16.936	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:16.936	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:17.389	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:17.389	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:17.634	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:17.634	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:18.036	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:18.036	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:18.235	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:18.235	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:19.385	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:19.385	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:19.770	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:19.770	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:20.450	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:20.450	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:21.456	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:21.456	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:21.746	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:21.746	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:22.747	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:22.747	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:23.302	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:23.302	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:24.404	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:24.404	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:27.739	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:27.739	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:27.920	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:27.920	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:28.905	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:28.905	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:30.610	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:30.610	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:31.133	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:31.133	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:31.213	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:31.213	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:31.440	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:31.440	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:31.869	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:31.870	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:32.062	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:32.062	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:32.713	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:32.713	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:33.411	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:33.411	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:33.625	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:33.625	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:34.065	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:34.065	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:34.256	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:34.256	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:34.448	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:34.448	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:34.788	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:34.788	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:35.661	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:35.661	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:36.454	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:36.454	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:37.525	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:37.525	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:37.593	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:37.593	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:37.786	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:37.786	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:38.109	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:38.109	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:40.371	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:40.371	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:40.534	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:40.534	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:40.797	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:40.797	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:41.027	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:41.027	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:41.651	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:41.651	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:41.711	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:41.711	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:42.258	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:42.258	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:42.860	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:42.860	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:43.470	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:43.470	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:44.046	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:44.046	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:44.215	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:44.215	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:44.451	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:44.451	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:44.835	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:44.835	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:45.269	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:45.269	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:45.851	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:45.851	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:46.622	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:46.622	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:46.804	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:46.804	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:47.161	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:47.161	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:47.378	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:47.378	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:47.542	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:47.542	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:47.892	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:47.892	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:48.404	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:48.404	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:50.356	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:50.356	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:51.614	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:51.614	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:52.339	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:52.339	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:52.647	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:52.647	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:53.533	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:53.533	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:53.882	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:53.882	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:55.969	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:55.969	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:56.199	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:56.199	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:57.614	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:57.614	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:13:57.861	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:13:57.861	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:00.454	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:00.454	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:01.522	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:01.522	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:01.925	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:01.925	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:02.262	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:02.262	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:02.455	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:02.455	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:02.860	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:02.860	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:03.120	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:03.120	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:04.249	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:04.249	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:04.319	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:04.319	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:05.381	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:05.381	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:05.696	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:05.696	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:05.968	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:05.968	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:06.253	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:06.253	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:06.457	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:06.457	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:07.386	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:07.386	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:07.689	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:07.689	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:09.567	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:09.567	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:10.554	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:10.554	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:11.144	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:11.144	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:12.671	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:12.671	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:13.855	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:13.855	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:15.878	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:15.878	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:17.792	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:17.792	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:21.471	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:21.471	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:21.705	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:21.705	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:22.348	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:22.348	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:23.473	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:23.473	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:23.618	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:23.618	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:23.938	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:23.938	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:24.737	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:24.737	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:25.511	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:25.511	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:28.745	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:28.745	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:29.116	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:29.116	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:32.382	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:32.382	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:33.898	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:33.898	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:34.535	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:34.535	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:35.000	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:35.000	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:36.649	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:36.649	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:36.827	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:36.827	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:37.838	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:37.838	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:39.049	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:39.049	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:39.530	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:39.530	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:40.368	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:40.368	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:40.424	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:40.424	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:43.398	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:43.398	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:47.124	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:47.124	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:48.088	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:48.088	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:49.976	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:49.976	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:51.090	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:51.090	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:52.181	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:52.181	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:52.940	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:52.940	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:53.481	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:53.481	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:53.837	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:53.837	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:54.641	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:54.641	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:57.483	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:57.483	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:58.251	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:58.251	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:58.591	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:58.591	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	15:14:59.091	FollowTrader USDCHF,H1: 正常做了一个空单
+3	15:14:59.091	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:04.547	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:04.547	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:07.500	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:07.500	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:08.593	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:08.593	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:08.765	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:08.765	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:09.160	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:09.160	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:09.620	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:09.620	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:11.536	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:11.536	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:11.745	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:11.745	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:11.920	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:11.920	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:13.266	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:13.266	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:13.457	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:13.457	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:13.835	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:13.835	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:14.231	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:14.231	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:16.702	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:16.702	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:17.782	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:17.782	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:17.977	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:17.977	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:18.483	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:18.483	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:18.808	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:18.808	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:18.994	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:18.994	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:23.248	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:23.248	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:23.499	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:23.499	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:24.537	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:24.537	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:25.535	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:25.535	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:25.735	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:25.735	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:25.931	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:25.931	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:26.453	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:26.453	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:26.638	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:26.638	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:26.821	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:26.821	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:27.042	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:27.042	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:28.936	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:28.936	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:32.115	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:32.115	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:34.316	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:34.316	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:36.002	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:36.002	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:36.625	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:36.625	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:36.814	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:36.814	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:37.183	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:37.183	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:37.510	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:37.510	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:38.542	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:38.542	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:39.340	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:39.340	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:39.646	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:39.646	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:40.871	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:40.871	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:42.392	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:42.392	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:42.595	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:42.595	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:43.183	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:43.183	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:43.513	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:43.513	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:43.901	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:43.901	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:44.502	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:44.502	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:45.705	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:45.705	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:45.987	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:45.987	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:46.809	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:46.809	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:47.063	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:47.063	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:47.232	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:47.232	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:48.422	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:48.422	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:48.587	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:48.587	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:50.256	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:50.256	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:51.523	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:51.523	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:52.878	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:52.878	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:53.362	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:53.362	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:54.545	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:54.545	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:55.157	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:55.157	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:55.431	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:55.431	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:55.913	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:55.913	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:56.544	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:56.544	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:57.889	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:57.889	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:10:59.778	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:10:59.778	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:02.927	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:02.927	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:03.141	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:03.141	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:08.414	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:08.414	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:10.014	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:10.014	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:10.214	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:10.214	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:13.426	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:13.426	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:14.188	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:14.188	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:16.241	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:16.241	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:16.540	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:16.540	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:18.546	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:18.546	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:19.637	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:19.638	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:20.057	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:20.057	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:21.173	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:21.173	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:22.134	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:22.134	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:22.924	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:22.924	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:23.994	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:23.994	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:24.187	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:24.187	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:24.363	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:24.363	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:24.654	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:24.654	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:25.589	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:25.589	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:27.132	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:27.132	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:30.220	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:30.220	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:31.786	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:31.786	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:32.587	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:32.587	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:32.838	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:32.838	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:33.332	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:33.332	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:34.140	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:34.140	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:34.338	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:34.338	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:35.204	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:35.204	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:36.639	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:36.639	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:37.854	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:37.854	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:38.082	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:38.082	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:38.727	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:38.727	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:38.938	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:38.938	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:40.700	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:40.700	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:47.183	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:47.183	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:47.354	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:47.354	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:49.142	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:49.142	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:50.143	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:50.143	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:52.260	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:52.260	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:52.429	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:52.429	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:53.662	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:53.662	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:11:58.204	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:11:58.204	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:00.692	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:00.692	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:01.110	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:01.110	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:03.125	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:03.125	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:03.539	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:03.539	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:03.959	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:03.959	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:05.976	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:05.976	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:06.470	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:06.470	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:06.965	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:06.965	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:08.097	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:08.097	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:08.357	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:08.357	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:08.543	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:08.543	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:09.348	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:09.348	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:09.661	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:09.661	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:09.864	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:09.864	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:11.211	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:11.211	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:11.445	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:11.445	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:12.282	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:12.282	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:12.736	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:12.736	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:14.737	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:14.737	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:15.698	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:15.698	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:15.900	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:15.900	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:16.309	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:16.309	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:16.648	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:16.648	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:17.391	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:17.391	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:18.044	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:18.044	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:18.262	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:18.262	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:18.473	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:18.473	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:19.334	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:19.334	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:19.670	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:19.670	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:20.100	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:20.100	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:22.287	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:22.287	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:22.495	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:22.495	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:27.170	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:27.170	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:27.362	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:27.362	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:27.977	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:27.977	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:28.207	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:28.207	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:28.536	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:28.536	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:29.082	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:29.082	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:29.103	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:29.103	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:29.432	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:29.432	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:29.930	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:29.930	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:29.998	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:29.998	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:32.448	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:32.448	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:32.459	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:32.459	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:32.641	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:32.641	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:34.181	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:34.181	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:34.491	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:34.491	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:34.857	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:34.857	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:35.193	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:35.193	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:35.453	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:35.453	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:35.918	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:35.918	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:36.123	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:36.123	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:36.821	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:36.821	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:39.706	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:39.706	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:41.444	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:41.444	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:41.756	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:41.756	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:42.539	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:42.539	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:48.660	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:48.660	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:48.981	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:48.981	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:51.694	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:51.694	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:12:56.721	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:12:56.721	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:01.453	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:01.453	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:04.292	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:04.292	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:10.482	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:10.482	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:10.716	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:10.716	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:11.512	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:11.512	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:12.146	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:12.146	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:12.293	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:12.293	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:13.886	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:13.886	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:14.143	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:14.143	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:17.312	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:17.312	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:17.507	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:17.507	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:18.652	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:18.652	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:20.171	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:20.171	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:20.395	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:20.395	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:20.577	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:20.577	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:20.770	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:20.770	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:21.153	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:21.153	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:21.494	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:21.494	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:21.782	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:21.782	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:23.788	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:23.788	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:24.036	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:24.036	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:24.208	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:24.208	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:24.806	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:24.806	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:27.388	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:27.388	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:27.905	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:27.905	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:28.296	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:28.296	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:29.256	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:29.256	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:30.359	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:30.359	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:30.615	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:30.615	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:32.748	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:32.748	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:35.928	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:35.928	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:40.288	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:40.288	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:45.388	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:45.388	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:53.338	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:53.338	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:53.495	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:53.495	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:53.679	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:53.679	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:55.918	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:55.918	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:57.669	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:57.669	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:58.109	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:58.109	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:58.955	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:58.955	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:59.517	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:59.517	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:59.768	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:59.768	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:13:59.974	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:13:59.974	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:00.154	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:00.154	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:03.411	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:03.411	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:04.177	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:04.177	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:04.403	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:04.403	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:05.589	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:05.589	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:06.177	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:06.177	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:07.015	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:07.015	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:09.110	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:09.110	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:09.572	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:09.572	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:10.204	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:10.204	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:11.238	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:11.238	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:11.484	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:11.484	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:12.203	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:12.203	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:13.004	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:13.004	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:14.478	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:14.478	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:17.375	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:17.375	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:17.622	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:17.622	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:17.787	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:17.787	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:18.015	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:18.015	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:18.289	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:18.289	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:28.274	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:28.274	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:29.543	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:29.543	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:32.686	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:32.686	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:33.039	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:33.039	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:33.718	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:33.718	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:33.867	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:33.867	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:34.090	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:34.090	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:35.523	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:35.523	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:37.545	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:37.545	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:37.764	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:37.764	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:39.220	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:39.220	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:39.485	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:39.485	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:40.694	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:40.694	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:42.004	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:42.004	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:42.157	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:42.157	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:42.376	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:42.376	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:47.832	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:47.832	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:55.903	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:55.903	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:56.110	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:56.110	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:56.883	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:56.883	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:14:59.626	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:14:59.626	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	16:15:00.863	FollowTrader USDCHF,H1: 正常做了一个空单
+3	16:15:00.863	FollowTrader USDCHF,H1: invalid takeprofit for OrderSend function
+0	18:19:13.651	FollowTrader USDCHF,H1: uninit reason 4
+0	18:19:13.732	Expert FollowTrader USDCHF,H1: removed
+0	18:22:26.767	Expert FollowTrader USDCHF,H1: loaded successfully
+0	18:22:28.241	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	18:22:28.241	FollowTrader USDCHF,H1: initialized
+0	18:22:44.633	FollowTrader USDCHF,H1: uninit reason 4
+0	18:22:44.671	Expert FollowTrader USDCHF,H1: removed
+0	18:25:27.533	Expert FollowTrader USDCHF,H1: loaded successfully
+0	18:25:29.349	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	18:25:29.349	FollowTrader USDCHF,H1: initialized
+0	18:28:00.718	FollowTrader USDCHF,H1: uninit reason 4
+0	18:28:00.793	Expert FollowTrader USDCHF,H1: removed
+0	19:19:30.563	Expert FollowTrader USDCHF,H1: loaded successfully
+0	19:19:35.175	FollowTrader USDCHF,H1: 当前Fllow SAR 的交易类别名称 GOLD
+0	19:19:35.175	FollowTrader USDCHF,H1: initialized

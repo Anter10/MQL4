@@ -3,3 +3,333 @@
 0	14:57:39.298	Grail XAUUSD,H1: initialized
 0	14:58:29.866	Grail XAUUSD,H1: uninit reason 4
 0	14:58:29.913	Expert Grail XAUUSD,H1: removed
+0	16:16:04.931	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:16:07.044	FollowTrader XAUUSD,H1: initialized
+0	16:17:05.021	FollowTrader XAUUSD,H1: uninit reason 4
+0	16:17:05.043	Expert FollowTrader XAUUSD,H1: removed
+0	16:17:23.516	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:17:25.925	FollowTrader XAUUSD,H1: initialized
+0	16:18:33.876	FollowTrader XAUUSD,H1: uninit reason 4
+3	16:18:33.878	FollowTrader XAUUSD,H1: 1 undeleted objects left
+3	16:18:33.878	FollowTrader XAUUSD,H1: 1 object of type Fllow left
+0	16:18:33.897	Expert FollowTrader XAUUSD,H1: removed
+0	16:18:35.253	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:18:36.915	FollowTrader XAUUSD,H1: Hello Fllow
+0	16:18:36.915	FollowTrader XAUUSD,H1: initialized
+0	16:19:21.834	FollowTrader XAUUSD,H1: uninit reason 4
+3	16:19:21.836	FollowTrader XAUUSD,H1: 1 undeleted objects left
+3	16:19:21.836	FollowTrader XAUUSD,H1: 1 object of type Fllow left
+3	16:19:21.836	FollowTrader XAUUSD,H1: 20 bytes of leaked memory
+0	16:19:21.851	Expert FollowTrader XAUUSD,H1: removed
+0	16:19:22.722	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:19:24.493	FollowTrader XAUUSD,H1: Hello Fllow XAUUSD2
+0	16:19:24.493	FollowTrader XAUUSD,H1: initialized
+0	16:21:37.464	FollowTrader XAUUSD,H1: uninit reason 4
+0	16:21:37.486	Expert FollowTrader XAUUSD,H1: removed
+0	16:21:46.878	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:21:48.745	FollowTrader XAUUSD,H1: Hello Fllow XAUUSD2
+0	16:21:48.745	FollowTrader XAUUSD,H1: initialized
+0	16:27:01.582	FollowTrader XAUUSD,H1: uninit reason 4
+0	16:27:01.641	Expert FollowTrader XAUUSD,H1: removed
+0	16:27:55.210	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:27:57.177	Expert FollowTrader XAUUSD,H1: removed
+0	16:31:19.426	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:31:21.442	FollowTrader XAUUSD,H1: Hello Fllow XAUUSD2
+0	16:31:21.442	FollowTrader XAUUSD,H1: initialized
+0	16:45:59.791	FollowTrader XAUUSD,H1: uninit reason 4
+3	16:45:59.792	FollowTrader XAUUSD,H1: 1 undeleted objects left
+3	16:45:59.792	FollowTrader XAUUSD,H1: 1 object of type Fllow left
+3	16:45:59.792	FollowTrader XAUUSD,H1: 20 bytes of leaked memory
+0	16:45:59.860	Expert FollowTrader XAUUSD,H1: removed
+0	16:49:54.318	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:49:57.277	Expert FollowTrader XAUUSD,H1: removed
+0	16:54:47.855	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:54:54.708	Expert FollowTrader XAUUSD,H1: removed
+0	16:55:09.757	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:55:14.202	Expert FollowTrader XAUUSD,H1: removed
+0	16:55:33.512	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:55:50.628	Expert FollowTrader XAUUSD,H1: removed
+0	16:55:52.178	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:55:55.503	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	16:55:55.503	FollowTrader XAUUSD,H1: initialized
+0	16:56:25.099	FollowTrader XAUUSD,H1: uninit reason 4
+0	16:56:25.163	Expert FollowTrader XAUUSD,H1: removed
+0	16:56:59.716	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	16:57:01.318	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	16:57:01.318	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	16:57:01.318	FollowTrader XAUUSD,H1: initialized
+0	17:00:39.273	FollowTrader XAUUSD,H1: uninit reason 3
+0	17:00:39.322	FollowTrader XAUUSD,M1: Hello Fllow Init0.001HK50
+0	17:00:39.322	FollowTrader XAUUSD,M1: Hello Fllow Init0.001HK50
+0	17:00:39.322	FollowTrader XAUUSD,M1: initialized
+0	17:03:46.822	FollowTrader XAUUSD,M1: uninit reason 4
+0	17:03:46.871	Expert FollowTrader XAUUSD,M1: removed
+0	17:03:48.585	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	17:03:50.777	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	17:03:50.777	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	17:03:50.777	FollowTrader XAUUSD,H1: initialized
+0	17:17:05.800	FollowTrader XAUUSD,H1: uninit reason 4
+0	17:17:05.863	Expert FollowTrader XAUUSD,H1: removed
+0	17:17:48.563	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	17:17:51.340	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	17:17:51.340	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	17:17:51.340	FollowTrader XAUUSD,H1: initialized
+0	17:50:51.101	FollowTrader XAUUSD,H1: uninit reason 4
+0	17:50:51.144	Expert FollowTrader XAUUSD,H1: removed
+0	19:03:46.193	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	19:03:51.005	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	19:03:51.005	FollowTrader XAUUSD,H1: initialized
+0	20:02:20.054	FollowTrader XAUUSD,H1: uninit reason 4
+0	20:02:20.140	Expert FollowTrader XAUUSD,H1: removed
+0	20:12:44.424	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	20:13:35.952	Expert FollowTrader XAUUSD,H1: removed
+0	20:14:27.344	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	20:14:32.250	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:14:32.255	FollowTrader XAUUSD,H1: min_lots hk50 = 0.1
+0	20:14:32.255	FollowTrader XAUUSD,H1: initialized
+0	20:15:40.692	FollowTrader XAUUSD,H1: uninit reason 4
+0	20:15:40.766	Expert FollowTrader XAUUSD,H1: removed
+0	20:16:02.815	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	20:16:05.622	FollowTrader XAUUSD,H1: initialized
+0	20:17:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:18:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:19:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:20:05.623	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:21:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:22:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:23:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:24:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:25:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:26:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:27:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:28:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:29:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:30:05.623	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:31:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:32:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:33:05.622	FollowTrader XAUUSD,H1: Hello Fllow Init0.001HK50
+0	20:33:05.899	FollowTrader XAUUSD,H1: uninit reason 4
+0	20:33:05.954	Expert FollowTrader XAUUSD,H1: removed
+0	20:33:06.871	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	20:33:09.634	FollowTrader XAUUSD,H1: initialized
+0	20:33:43.172	FollowTrader XAUUSD,H1: uninit reason 3
+0	20:33:43.207	FollowTrader HK50,H1: initialized
+0	20:34:23.119	FollowTrader HK50,H1: uninit reason 3
+0	20:34:23.169	FollowTrader HK50,M1: initialized
+0	20:35:05.708	FollowTrader HK50,M1: uninit reason 4
+0	20:35:05.788	Expert FollowTrader HK50,M1: removed
+0	20:35:06.743	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	20:35:09.319	FollowTrader XAUUSD,H1: initialized
+0	20:38:22.615	FollowTrader XAUUSD,H1: uninit reason 4
+0	20:38:22.668	Expert FollowTrader XAUUSD,H1: removed
+0	20:41:06.976	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	20:41:09.443	FollowTrader XAUUSD,H1: initialized
+0	21:16:28.902	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:16:28.983	Expert FollowTrader XAUUSD,H1: removed
+0	21:16:30.193	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:16:32.214	FollowTrader XAUUSD,H1: initialized
+0	21:20:19.279	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:20:19.354	Expert FollowTrader XAUUSD,H1: removed
+0	21:20:20.379	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:20:39.888	Expert FollowTrader XAUUSD,H1: removed
+0	21:20:40.910	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:20:43.346	FollowTrader XAUUSD,H1: initialized
+0	21:20:53.934	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:20:53.960	Expert FollowTrader XAUUSD,H1: removed
+0	21:20:54.839	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:20:56.775	FollowTrader XAUUSD,H1: initialized
+0	21:22:43.758	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:22:43.772	Expert FollowTrader XAUUSD,H1: removed
+0	21:22:45.375	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:22:49.538	FollowTrader XAUUSD,H1: initialized
+0	21:26:24.603	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:26:24.628	Expert FollowTrader XAUUSD,H1: removed
+0	21:26:25.933	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:26:28.111	FollowTrader XAUUSD,H1: initialized
+0	21:34:02.878	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:34:02.990	Expert FollowTrader XAUUSD,H1: removed
+0	21:34:04.019	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:34:06.590	FollowTrader XAUUSD,H1: initialized
+0	21:35:08.162	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:35:08.183	Expert FollowTrader XAUUSD,H1: removed
+0	21:35:09.180	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:35:11.176	FollowTrader XAUUSD,H1: initialized
+0	21:35:33.931	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:35:33.956	Expert FollowTrader XAUUSD,H1: removed
+0	21:35:35.711	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:35:37.540	FollowTrader XAUUSD,H1: initialized
+0	21:37:53.093	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:37:53.110	Expert FollowTrader XAUUSD,H1: removed
+0	21:39:08.468	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:39:10.770	FollowTrader XAUUSD,H1: initialized
+0	21:39:46.076	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:39:46.152	Expert FollowTrader XAUUSD,H1: removed
+0	21:39:47.164	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:39:49.237	FollowTrader XAUUSD,H1: initialized
+0	21:40:55.660	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:40:55.681	Expert FollowTrader XAUUSD,H1: removed
+0	21:40:57.207	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:40:58.953	FollowTrader XAUUSD,H1: initialized
+0	21:42:50.535	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:42:50.590	Expert FollowTrader XAUUSD,H1: removed
+0	21:42:51.609	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:42:53.702	FollowTrader XAUUSD,H1: initialized
+0	21:45:47.980	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:45:47.994	Expert FollowTrader XAUUSD,H1: removed
+0	21:45:48.914	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:45:50.652	FollowTrader XAUUSD,H1: initialized
+0	21:55:10.045	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:55:10.120	Expert FollowTrader XAUUSD,H1: removed
+0	21:55:21.113	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:55:22.911	FollowTrader XAUUSD,H1: initialized
+0	21:56:21.249	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:56:21.276	Expert FollowTrader XAUUSD,H1: removed
+0	21:56:22.173	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:56:23.788	FollowTrader XAUUSD,H1: initialized
+0	21:57:08.161	FollowTrader XAUUSD,H1: uninit reason 4
+0	21:57:08.232	Expert FollowTrader XAUUSD,H1: removed
+0	21:57:09.193	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	21:57:11.491	FollowTrader XAUUSD,H1: initialized
+0	22:00:34.286	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:00:34.322	Expert FollowTrader XAUUSD,H1: removed
+0	22:00:45.504	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:00:47.473	FollowTrader XAUUSD,H1: initialized
+0	22:02:45.220	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:02:45.238	Expert FollowTrader XAUUSD,H1: removed
+0	22:02:46.164	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:02:52.069	FollowTrader XAUUSD,H1: initialized
+0	22:11:39.974	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:11:40.002	Expert FollowTrader XAUUSD,H1: removed
+0	22:11:41.189	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:11:45.991	FollowTrader XAUUSD,H1: initialized
+0	22:12:13.692	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:12:13.735	Expert FollowTrader XAUUSD,H1: removed
+0	22:12:14.594	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:12:15.678	FollowTrader XAUUSD,H1: initialized
+0	22:14:19.337	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:14:19.418	Expert FollowTrader XAUUSD,H1: removed
+0	22:14:20.438	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:14:22.148	FollowTrader XAUUSD,H1: initialized
+0	22:14:49.709	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:14:49.781	Expert FollowTrader XAUUSD,H1: removed
+0	22:14:50.612	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:14:52.088	FollowTrader XAUUSD,H1: initialized
+0	22:15:30.151	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:15:30.216	Expert FollowTrader XAUUSD,H1: removed
+0	22:15:31.851	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:15:33.959	FollowTrader XAUUSD,H1: initialized
+0	22:17:52.464	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:17:52.529	Expert FollowTrader XAUUSD,H1: removed
+0	22:17:53.558	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:17:57.016	FollowTrader XAUUSD,H1: initialized
+0	22:18:21.784	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:18:21.859	Expert FollowTrader XAUUSD,H1: removed
+0	22:18:22.689	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:18:28.736	FollowTrader XAUUSD,H1: initialized
+0	22:22:49.788	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:22:49.871	Expert FollowTrader XAUUSD,H1: removed
+0	22:22:50.711	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:22:52.373	FollowTrader XAUUSD,H1: initialized
+0	22:24:01.311	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:24:01.369	Expert FollowTrader XAUUSD,H1: removed
+0	22:24:02.279	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:24:04.023	FollowTrader XAUUSD,H1: initialized
+0	22:24:55.418	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:24:55.490	Expert FollowTrader XAUUSD,H1: removed
+0	22:24:56.257	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:24:57.710	FollowTrader XAUUSD,H1: initialized
+0	22:26:18.846	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:26:18.908	Expert FollowTrader XAUUSD,H1: removed
+0	22:26:19.942	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:26:21.474	FollowTrader XAUUSD,H1: initialized
+0	22:28:31.711	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:28:31.738	Expert FollowTrader XAUUSD,H1: removed
+0	22:28:32.676	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:28:35.259	FollowTrader XAUUSD,H1: initialized
+0	22:32:44.580	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:32:44.680	Expert FollowTrader XAUUSD,H1: removed
+0	22:32:45.566	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:32:47.524	FollowTrader XAUUSD,H1: initialized
+0	22:34:36.522	FollowTrader XAUUSD,H1: uninit reason 4
+0	22:34:36.576	Expert FollowTrader XAUUSD,H1: removed
+0	22:34:37.399	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:34:39.650	FollowTrader XAUUSD,H1: initialized
+0	22:34:58.921	FollowTrader XAUUSD,H1: uninit reason 3
+0	22:34:58.948	FollowTrader US30,H1: initialized
+0	22:37:35.554	FollowTrader US30,H1: uninit reason 4
+0	22:37:35.570	Expert FollowTrader US30,H1: removed
+0	22:37:36.757	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	22:37:38.631	FollowTrader XAUUSD,H1: initialized
+0	23:07:08.789	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:07:08.907	Expert FollowTrader XAUUSD,H1: removed
+0	23:07:10.549	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:07:12.700	FollowTrader XAUUSD,H1: initialized
+0	23:07:38.740	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:07:38.819	Expert FollowTrader XAUUSD,H1: removed
+0	23:07:39.738	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:07:41.662	FollowTrader XAUUSD,H1: initialized
+0	23:11:46.184	FollowTrader XAUUSD,H1: uninit reason 3
+0	23:11:46.212	FollowTrader JPN225,H1: initialized
+0	23:32:15.333	FollowTrader JPN225,H1: uninit reason 4
+0	23:32:15.426	Expert FollowTrader JPN225,H1: removed
+0	23:32:39.821	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:32:42.105	FollowTrader XAUUSD,H1: initialized
+0	23:33:05.415	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:33:05.460	Expert FollowTrader XAUUSD,H1: removed
+0	23:33:31.133	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:33:34.935	FollowTrader XAUUSD,H1: initialized
+0	23:35:53.957	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:35:53.980	Expert FollowTrader XAUUSD,H1: removed
+0	23:36:16.243	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:36:18.741	FollowTrader XAUUSD,H1: initialized
+0	23:36:46.219	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:36:46.277	Expert FollowTrader XAUUSD,H1: removed
+0	23:36:47.273	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:36:51.664	FollowTrader XAUUSD,H1: initialized
+0	23:37:33.023	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:37:33.093	Expert FollowTrader XAUUSD,H1: removed
+0	23:37:33.913	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:37:37.253	FollowTrader XAUUSD,H1: initialized
+0	23:38:26.429	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:38:26.510	Expert FollowTrader XAUUSD,H1: removed
+0	23:38:27.952	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:38:29.253	Expert FollowTrader XAUUSD,H1: removed
+0	23:38:30.094	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:38:31.972	FollowTrader XAUUSD,H1: initialized
+0	23:39:09.824	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:39:09.867	Expert FollowTrader XAUUSD,H1: removed
+0	23:39:10.842	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:39:14.619	FollowTrader XAUUSD,H1: initialized
+0	23:39:55.822	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:39:55.912	Expert FollowTrader XAUUSD,H1: removed
+0	23:39:57.017	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:39:59.101	FollowTrader XAUUSD,H1: initialized
+0	23:43:42.060	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:43:42.098	Expert FollowTrader XAUUSD,H1: removed
+0	23:43:43.264	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:43:45.147	FollowTrader XAUUSD,H1: initialized
+0	23:44:35.484	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:44:35.559	Expert FollowTrader XAUUSD,H1: removed
+0	23:45:44.591	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:45:49.310	FollowTrader XAUUSD,H1: initialized
+0	23:47:41.072	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:47:41.110	Expert FollowTrader XAUUSD,H1: removed
+0	23:47:42.155	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:47:43.595	FollowTrader XAUUSD,H1: initialized
+1	23:48:43.655	FollowTrader XAUUSD,H1: debugging terminated
+0	23:48:43.737	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:48:43.778	Expert FollowTrader XAUUSD,H1: removed
+0	23:48:44.601	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:48:47.549	FollowTrader XAUUSD,H1: initialized
+0	23:49:10.862	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:49:10.908	Expert FollowTrader XAUUSD,H1: removed
+0	23:49:11.801	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:49:13.065	FollowTrader XAUUSD,H1: initialized
+0	23:49:42.873	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:49:42.907	Expert FollowTrader XAUUSD,H1: removed
+0	23:49:43.929	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:49:48.104	FollowTrader XAUUSD,H1: initialized
+0	23:59:37.242	FollowTrader XAUUSD,H1: uninit reason 4
+0	23:59:37.302	Expert FollowTrader XAUUSD,H1: removed
+0	23:59:38.026	Expert FollowTrader XAUUSD,H1: loaded successfully
+0	23:59:40.392	FollowTrader XAUUSD,H1: initialized
